@@ -1,7 +1,7 @@
 Smart Citizen Kit 1.5 Enclosures
 ================================
 
-This is a temporary repository where to host enclosures we are developing for the Smart Citizen Kit 1.5 as part of the [Making Sense](http://making-sense.eu/) project.
+This is a temporary repository where to host enclosures we are developing for the Smart Citizen Kit 1.5.
 
 ![Smart Citizen Cases](https://cdn.rawgit.com/fablabbcn/smartcitizen-enclosures/master/SmartCitizen%20Case%20V1.5.1/Cases.jpg)
 
