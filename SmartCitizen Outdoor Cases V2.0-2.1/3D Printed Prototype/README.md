@@ -12,9 +12,9 @@ We have tested the 3D printed components with both PLA or ABS. Good results are 
 
 The SCK and the PMS5003 are held together by a 3D printed clip. No support is needed for this part. 
 
-### Base
+### Base-Top
 
-Support is not needed for this part.
+Support is not needed for this part. A gasket can be added to the joint with adhesive foam. You can increase the top's thickness if you need better isolation, or use the foam provided with the SCK's box as an insulator. Also, tin foil is quite a good reflective material and helps with sun radiation.
 
 ### Locks
 
