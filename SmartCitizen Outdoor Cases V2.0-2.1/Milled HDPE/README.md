@@ -12,6 +12,11 @@ The SCK and the PMS5003 are held together by a 3D printed clip. No support is ne
 
 <img src="https://live.staticflickr.com/65535/48439505406_c313e7eda3_h.jpg" alt="SCK 2.1 Outdoor enclosure">
 
+There are **two versions** of the clip:
+
+- One for big batteries that uses an o-ring to hold the battery in place. You can also use a rubber band, but it won't last long under the sun - clip_big_batt.stl
+- One for smaller batteries that uses the PMS5003 cable to hold the battery (valid for default battery of 2000mAh) - clip_wo_oring.stl
+
 ## Milling
 
 CNC milling of 15mm HDPE sheets for the base (we make it in blue), and 10mm for the top (we make it in white).
