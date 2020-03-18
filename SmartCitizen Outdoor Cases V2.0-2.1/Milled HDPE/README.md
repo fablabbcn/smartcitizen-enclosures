@@ -17,6 +17,10 @@ There are **two versions** of the clip:
 - One for big batteries that uses an o-ring to hold the battery in place. You can also use a rubber band, but it won't last long under the sun - clip_big_batt.stl
 - One for smaller batteries that uses the PMS5003 cable to hold the battery (valid for default battery of 2000mAh) - clip_wo_oring.stl
 
+### Cable gland
+
+There is a small cable gland that fits into the HDPE blue base to hold the cable in place. It's split into two, so that the USB head can go through. 
+
 ## Milling
 
 CNC milling of 15mm HDPE sheets for the base (we make it in blue), and 10mm for the top (we make it in white).
