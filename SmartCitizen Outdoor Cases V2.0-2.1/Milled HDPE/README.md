@@ -1,10 +1,12 @@
-![](https://raw.githubusercontent.com/fablabbcn/smartcitizen-enclosures/master/SmartCitizen%20Outdoor%20Cases%20V2.0-2.1/Milled%20HDPE/case_render.png)
+![](final_render.png)
 
 This enclosure is an outdoor solution with HDPE milled components, a sheet metal support and commercial parts (PMMA-Acrylic pipe).
 
 <img src="https://live.staticflickr.com/65535/48439505851_58562d14cc_h.jpg" alt="SCK 2.1 Outdoor enclosure">
 
 ## Printing Settings
+
+![](case_render.png)
 
 ### Clip
 
@@ -42,3 +44,7 @@ Single sided milling. The part has a stepped milling for letting heat out, witho
 This component is meant for attaching the whole system to a wall or pole, as well as supporting the installation of an external power supply in an IP65 box. The sheet is 1mm stainless steel with laser cutting and bent in two edges 90º.
 
 <img src="https://live.staticflickr.com/65535/48439649392_67e981db3b_h.jpg" alt="SCK 2.1 Outdoor enclosure">
+
+## Power supply
+
+Check the the [Power supply](https://github.com/fablabbcn/smartcitizen-enclosures/tree/master/SmartCitizen%20PowerSupply) for more instructions. The enclosure is [this one](https://www.bopla.de/en/enclosure-technology/product/euromas-polymas/euromas-polymas-enclosures/pk-102-211.html).
