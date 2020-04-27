@@ -20,4 +20,4 @@ We use DF Robot MPTT Sunfolower Solar power manager 5V V1.0 [from here](https://
 
 ## Enclosure
 
-A Bopla Polymas PK 102-211 enclosure is used ([link](The enclosure is [this one](https://www.bopla.de/en/enclosure-technology/product/euromas-polymas/euromas-polymas-enclosures/pk-102-211.html).)). The models can be found in the manufacturer's site in STP format.
+A [Bopla Polymas PK 102-211](https://www.bopla.de/en/enclosure-technology/product/euromas-polymas/euromas-polymas-enclosures/pk-102-211.html) enclosure is used. The models can be found in the manufacturer's site in STP format.
