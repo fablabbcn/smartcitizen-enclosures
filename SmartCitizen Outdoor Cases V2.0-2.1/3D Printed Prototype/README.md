@@ -28,5 +28,5 @@ A small cable gland is also design to help improve waterproofness and fix the US
 
 ### Enlarged Cover
 
-If you want to have some more space in the cover (eg to put a Solar MPPT and an additional battery in it), you can use the File COVER25.STL. 
+If you want to have some more space in the cover (eg to put a Solar MPPT and an additional battery in it), you can use the File COVER25.STL. This cover gives you an additional height of 2,5cm.
 
