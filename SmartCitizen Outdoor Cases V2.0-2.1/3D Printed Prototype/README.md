@@ -25,3 +25,8 @@ Flexible locks are also provided for better fixation. No support is needed.
 A small cable gland is also design to help improve waterproofness and fix the USB cable. It can be stored in the _pocket_ next to the opening.
 
 <img src="https://live.staticflickr.com/65535/48080247068_3acf857e7b_h.jpg" alt="SCK 2.1 Encloure">
+
+### Enlarged Cover
+
+If you want to have some more space in the cover (eg to put a Solar MPPT and an additional battery in it), you can use the File COVER25.STL. 
+
