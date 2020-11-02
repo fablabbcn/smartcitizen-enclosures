@@ -5,3 +5,5 @@ Thought I’d give it some IaaC feeling :slightly_smiling_face:
 Photos attached.
 Still might need some improvement.
 By the way, for keeping the housing relatively small, I have used a USB cable with an angled micro USB plug.
+
+Andreas Manz - [@Prius1954](https://github.com/prius1954)

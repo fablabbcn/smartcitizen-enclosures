@@ -1,3 +1,7 @@
 .DS_Store
 .~lock.*
 38102200_PK-102-211.stp
+
+.sch-bak
+fp-info-cache
+.kicad_pcb-bak
