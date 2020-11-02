@@ -2,6 +2,6 @@
 .~lock.*
 38102200_PK-102-211.stp
 
-.sch-bak
+*.sch-bak
 fp-info-cache
-.kicad_pcb-bak
+*.kicad_pcb-bak

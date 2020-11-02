@@ -35,6 +35,13 @@ Double sided milling. The holes are for self-tightening screws (such as [these o
 
 An additional cap is added to cover the hole in case no cable is needed.
 
+#### Foam cover
+
+An additional [foam cover](components/CLIP-FOAM.stl) has been included for high humidity environments. The print settings need to be adapted with:
+
+- 0.2mm layer height
+- Detect thin walls
+
 ### Top
 
 Single sided milling. The part has a stepped milling for letting heat out, without letting water in.
