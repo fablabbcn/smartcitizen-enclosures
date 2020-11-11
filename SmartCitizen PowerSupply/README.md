@@ -1,6 +1,8 @@
 Smart Citizen Power Supply
 ========================
 
+![](assets/powersupply.jpg)
+
 A simple power supply to power the SCK with 230AC input and 5VDC.
 
 ![](https://i.imgur.com/50JsH5A.jpg)
