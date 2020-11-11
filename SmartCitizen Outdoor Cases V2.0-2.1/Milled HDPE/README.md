@@ -10,6 +10,8 @@ This enclosure is an outdoor solution with HDPE milled components, a sheet metal
 
 ### Clip
 
+![](clip.jpg)
+
 The SCK and the PMS5003 are held together by a 3D printed clip. No support is needed for this part. The clip is attached to the base with screws.
 
 <img src="https://live.staticflickr.com/65535/48439505406_c313e7eda3_h.jpg" alt="SCK 2.1 Outdoor enclosure">
