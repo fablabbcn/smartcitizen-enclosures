@@ -1,4 +1,4 @@
-![](final_render.png)
+![](render_w_clip_foam.png)
 
 This enclosure is an outdoor solution with HDPE milled components, a sheet metal support and commercial parts (PMMA-Acrylic pipe).
 
