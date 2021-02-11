@@ -1,3 +1,6 @@
+# 3D printed Modular Viadukaduk
+
+![](pictures/20200601_133633.jpg)
 
 We decided to make our own enclosure to make sure we had the best results addressing potential issues like:
 
@@ -20,9 +23,13 @@ The internal parts proven to be strong enough but could be better. The openings 
 Inside of the enclosure there is a synthetic mesh, with small holes. Our meshes are not UV resistant but given they are postioned out of direct UV exposure we didn't have any problems with sun related damage. If you can find one which can resist UV better, use that one instead.
 The role of the mesh is to stop any big droplets of water which could still penetrate under the hood at strong wind conditions. There are some holes around the base of the mesh for drainage. The mesh also keeps insects away. It is glued with hot glue pistol to the bottom part of the enclosure. We ordered those laser cut to size in a company in Haarlem, Netherlands.
 
+![](pictures/20200512_170249.jpg)
+
 The dimensions of the meshes are 335x58mm.
 
 The enclosure is modular. So you can add the “middle” element multiple times. This would influence the width of the meshes, however. The mesh fits in groves provided in the enclosure. The mesh company is http://www.topzeven.com/ You will notice that the grips between the main 3 rings of the enclosure on the 1.0 version are different and much simplier and durable then illustrated.
+
+![](pictures/20200411_113658.jpg)
 
 The included section depicts an older version of the enclosure where there also were two grove ridges at the TOP part. Since then the 1.0 has higher ridges and the TOP part has only one, which goes INSIDE the mesh. After a minute of patient manipulation your enclosrure will fit together neatly. Also glueing the mesh to the BOTTOM part helps to maneuver.
 
