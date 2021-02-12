@@ -7,14 +7,14 @@ We decided to make our own enclosure to make sure we had the best results addres
 - condensation of vapour - good ventillation
 - overheating from sun
 - good enough waterproofing
-- easu to hang on a facade at the height of about 4 meters
+- easy to hang on a facade at the height of about 4 meters
 - good access to sensors
 
 As of January 2021 there are 12 sensors with this enclosure, which have been active for over half a year. See sensors with hashtag #viadukaduk.
 
 As for the enclosures they are a success so far. They’ve been in the weather since april and withstood all sorts of conditions including storms and -10°. Some small amount of dust accumulates in the enclosure over time.
 
-Moreover the design seems to prevent any overheating from the sun. The sensors are hanging in all orientations towards the north and all the readings of temperature seem consistent.
+Moreover the design seems to prevent any overheating from the sun. The sensors are hanging in all orientations towards the north and all the readings of temperature seem to be consistent.
 
 For UV durability we printed the outside enclosure in white PETG and installed them like this without further adjustments. Well, some stanley knife trimming was necessary due to 3d print quality. Internal parts (standard frame and clip) have been printed in ABS. We used commercial services of 3Dhubs for this.
 
@@ -33,6 +33,8 @@ The enclosure is modular. So you can add the “middle” element multiple times
 
 The included section depicts an older version of the enclosure where there also were two grove ridges at the TOP part. Since then the 1.0 has higher ridges and the TOP part has only one, which goes INSIDE the mesh. After a minute of patient manipulation your enclosrure will fit together neatly. Also glueing the mesh to the BOTTOM part helps to maneuver.
 
+![](pictures/section 0.2.png)
+
 There are 3 ports for screws on the enclosure. 2 of them are located on the perimeter of the enclosure. These are used with 9cm (I think 9cm...) long, 6mm inox screws to shut the enclosure.
 
-Reces for a 90° square bracket is present to one side of the BOTTOM part. One of the perimeter screws and a separate screw port, the 3rd port, from within the enclosure is used to fix the enclosure to the bracket. Given that you probably will have a different bracket than we did you might need to adjust the position of the 3rd port in the sketchup file before you print.
+A recess for a 90° square bracket is present to one side of the BOTTOM part. One of the perimeter screws and a separate screw port, the 3rd port, from within the enclosure is used to fix the enclosure to the bracket. Given that you probably will have a different bracket than we did, you might need to adjust the position of the 3rd port in the sketchup file before you print.
