@@ -10,13 +10,14 @@ FILE_DESCRIPTION(
 
 FILE_NAME(
 /* name */ 
-'/var/folders/jh/yqwgppd975x6_958tswyv1cm0000gn/T/com.autodesk.mas.fus
-ion360/Neutron/434f57a2-168c-4857-b6bf-ea0f3d7fe1c3.stp',
-/* time_stamp */ '2019-09-09T18:25:06+02:00',
+'/Users/macoscar/Documents/04_Projects/02_FabLab/01_SmartCitizen/01_Re
+positories/Enclosures/smartcitizen-enclosures/SmartCitizen Outdoor Cas
+es V2.0-2.1/Milled HDPE/components/top.step',
+/* time_stamp */ '2020-04-24T13:09:52+02:00',
 /* author */ (''),
 /* organization */ (''),
-/* preprocessor_version */ 'ST-DEVELOPER v18',
-/* originating_system */ 'Autodesk Translation Framework v8.2.0.1029',
+/* preprocessor_version */ 'ST-DEVELOPER v18.1',
+/* originating_system */ 'Autodesk Translation Framework v9.2.0.1227',
 /* authorisation */ '');
 
 FILE_SCHEMA (('AUTOMOTIVE_DESIGN { 1 0 10303 214 3 1 1 }'));
