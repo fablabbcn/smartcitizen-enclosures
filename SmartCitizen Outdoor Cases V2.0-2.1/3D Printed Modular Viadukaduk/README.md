@@ -33,7 +33,7 @@ The enclosure is modular. So you can add the “middle” element multiple times
 
 The included section depicts an older version of the enclosure where there also were two grove ridges at the TOP part. Since then the 1.0 has higher ridges and the TOP part has only one, which goes INSIDE the mesh. After a minute of patient manipulation your enclosrure will fit together neatly. Also glueing the mesh to the BOTTOM part helps to maneuver.
 
-![](pictures/section 0.2.png)
+![](pictures/section_0.2.png)
 
 There are 3 ports for screws on the enclosure. 2 of them are located on the perimeter of the enclosure. These are used with 9cm (I think 9cm...) long, 6mm inox screws to shut the enclosure.
 
