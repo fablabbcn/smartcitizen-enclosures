@@ -1,7 +1,7 @@
 Power Options
 ========================
 
-The Smart Citizen Kit can be powered with a normal 5V 1A USB charger via micro USB port. Outdoor deployments, or more complex setups (like the Smart Citizen Station), require a better power supply. More documentation available [in the docs](https://docs.smartcitizen.me/Components/boards/Power%20Supply/) Here are some options:
+The Smart Citizen Kit can be powered with a normal 5V 1A USB charger via micro USB port. Outdoor deployments, or more complex setups (like the Smart Citizen Station), require a more rugged power supply. More documentation available [in the docs](https://docs.smartcitizen.me/Components/boards/Power%20Supply/). Here are some options:
 
 ## Smart Citizen Power Supply
 
