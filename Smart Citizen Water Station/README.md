@@ -25,6 +25,9 @@ We used Icotek QVT16 and QVT20 with different cable grommets (no hole, 1 hole, 4
 
 Find all the components in the [BOM](BOM.csv)
 
+### Docs 
+
+More documentation can be found in [the docs](http://docs.smartcitizen.me/Components/Soil%20and%20water/)
 
 ## Contributors
 
