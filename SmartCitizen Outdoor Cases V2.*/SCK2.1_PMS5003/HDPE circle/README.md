@@ -56,4 +56,4 @@ This component is meant for attaching the whole system to a wall or pole, as wel
 
 ## Power supply
 
-Check the the [Power supply](https://github.com/fablabbcn/smartcitizen-enclosures/tree/master/SmartCitizen%20PowerSupply) for more instructions. The enclosure is [this one](https://www.bopla.de/en/enclosure-technology/product/euromas-polymas/euromas-polymas-enclosures/pk-102-211.html).
+Check the the [Power supply](https://github.com/fablabbcn/smartcitizen-enclosures/tree/master/Power%20options) for more instructions. The enclosure is [this one](https://www.bopla.de/en/enclosure-technology/product/euromas-polymas/euromas-polymas-enclosures/pk-102-211.html).

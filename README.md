@@ -4,7 +4,7 @@
 Smart Citizen Enclosures
 ========================
 
-This is a repository we host enclosures we are developing for the Smart Citizen Kit 1.5 and 2.0 family
+This is a repository we host enclosures we are developing for the Smart Citizen Kit 1.5 and 2.X family. If you are looking for outdoor cases, make sure to visit the [variants table](SmartCitizen Outdoor Cases V2.0-2.1/README.md) to find out what best suits your needs.
 
 ### Warning
 
