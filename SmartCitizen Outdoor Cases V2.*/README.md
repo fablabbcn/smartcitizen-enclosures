@@ -18,30 +18,31 @@ The table below will guide you through the selection process of your enclosure:
 
 |ID	|Sensors							|Exposure		|Extras		|Process		|Files   											|Status							|
 |:-:|:-:								|:-:			|:-:		|:-:			|:-:   												|:-:							|
-|	|SCK2.1 + PMS50003					|INDOOR			|			|3D Printing	|[Files](SCK2.1_PMS5003/3D%20Printed%20Prototype)		|Boilerplate (A)				|
+|	|SCK2.1 + PMS50003					|INDOOR			|			|3D Printing	|[Files](SCK2.1_PMS5003/3D%20Printed%20Prototype)		|Boilerplate `(A)`				|
 |	|SCK2.1 + PMS50003					|OUTDOOR		|AUX001		|CNC Milling	|[Files](SCK2.1_PMS5003/HDPE%20circle)				|Production						|
 |	|SCK2.1 + PMS50003					|OUTDOOR*		|AUX004		|CNC Milling	|[Files](SCK2.1_PMS5003/HDPE%20square)				|Prototype						|
-|	|SCK2.1 + PMS50003					|OUTDOOR*		|AUX003		|3D Printing	|[Files](SCK2.1_PMS5003/3D%20Printed%20square)			|Prototype	 (A)				|
-|	|SCK2.1 + PMS50003 + SCD30			|OUTDOOR* (B)	|AUX003		|3D Printing	|[Files](SCK2.1_PMS5003_CO2/3D%20Printed)				|Production						|
-|	|SCK2.1 + PMS50003 + SCD30			|OUTDOOR* (B)	|AUX003		|CNC Milling	|[Files](SCK2.1_PMS5003_CO2/HDPE)					|Prototype	(C)					|
-|	|SCK2.1 + PMS50003 + 2EC**			|OUTDOOR* (B)	|AUX003		|CNC Milling	|[Files](SCK2.1_PMS5003_2EC/3D%20Printed)				|Prototype	(C)					|
-|	|SCK2.1 + PMS50003 + 2EC**			|OUTDOOR* (B)	|AUX003		|CNC Milling	|[Files](SCK2.1_PMS5003_2EC/HDPE)					|Prototype	(C)					|
-|	|SCK2.1 + PMS50003 + 2EC** + SCD30	|OUTDOOR* (B)	|AUX003		|CNC Milling	|[Files](SCK2.1_PMS5003_2EC_CO2/3D%20Printed)			|Prototype	(C)					|
-|	|SCK2.1 + PMS50003 + 2EC** + SCD30	|OUTDOOR* (B)	|AUX003		|CNC Milling	|[Files](SCK2.1_PMS5003_2EC_CO2/HDPE)				|Prototype	(C)					|
-|	|SCK2.1 + PMS50003 + 3EC**			|OUTDOOR* (B)	|AUX003		|CNC Milling	|[Files](SCK2.1_PMS5003_3EC/3D%20Printed)				|Prototype	(C)					|
-|	|SCK2.1 + PMS50003 + 3EC**			|OUTDOOR* (B)	|AUX003		|CNC Milling	|[Files](SCK2.1_PMS5003_3EC/HDPE)					|Prototype	(C)					|
-|	|SCK2.1 + PMS50003 + 3EC** + SCD30	|OUTDOOR* (B)	|AUX003		|CNC Milling	|[Files](SCK2.1_PMS5003_3EC_CO2/3D%20Printed)			|Prototype	(C)					|
-|	|SCK2.1 + PMS50003 + 3EC** + SCD30	|OUTDOOR* (B)	|AUX003		|CNC Milling	|[Files](SCK2.1_PMS5003_3EC_CO2/HDPE)				|Prototype	(C)					|
+|	|SCK2.1 + PMS50003					|OUTDOOR*		|AUX003		|3D Printing	|[Files](SCK2.1_PMS5003/3D%20Printed%20square)			|Prototype	 `(A)`				|
+|	|SCK2.1 + PMS50003 + SCD30			|OUTDOOR`*` `(B)`	|AUX003		|3D Printing	|[Files](SCK2.1_PMS5003_CO2/3D%20Printed)				|Production						|
+|	|SCK2.1 + PMS50003 + SCD30			|OUTDOOR`*` `(B)`	|AUX003		|CNC Milling	|[Files](SCK2.1_PMS5003_CO2/HDPE)					|Prototype	`(C)`					|
+|	|SCK2.1 + PMS50003 + 2EC`**` 		|OUTDOOR`*` `(B)`	|AUX003		|3D Printing	|[Files](SCK2.1_PMS5003_2EC/3D%20Printed)				|Prototype	`(C)`					|
+|	|SCK2.1 + PMS50003 + 2EC`**` 		|OUTDOOR`*` `(B)`	|AUX003		|CNC Milling	|[Files](SCK2.1_PMS5003_2EC/HDPE)					|Prototype	`(C)`					|
+|	|SCK2.1 + PMS50003 + 2EC`**` + SCD30	|OUTDOOR`*` `(B)`	|AUX003		|3D Printing	|[Files](SCK2.1_PMS5003_2EC_CO2/3D%20Printed)			|Prototype	`(C)`					|
+|	|SCK2.1 + PMS50003 + 2EC`**` + SCD30	|OUTDOOR`*` `(B)`	|AUX003		|CNC Milling	|[Files](SCK2.1_PMS5003_2EC_CO2/HDPE)				|Prototype	`(C)`					|
+|	|SCK2.1 + PMS50003 + 3EC`**` 		|OUTDOOR`*` `(B)`	|AUX003		|3D Printing	|[Files](SCK2.1_PMS5003_3EC/3D%20Printed)				|Prototype	`(C)`					|
+|	|SCK2.1 + PMS50003 + 3EC`**` 		|OUTDOOR`*` `(B)`	|AUX003		|CNC Milling	|[Files](SCK2.1_PMS5003_3EC/HDPE)					|Prototype	`(C)`					|
+|	|SCK2.1 + PMS50003 + 3EC`**` + SCD30	|OUTDOOR`*` `(B)`	|AUX003		|3D Printing	|[Files](SCK2.1_PMS5003_3EC_CO2/3D%20Printed)			|Prototype	`(C)`					|
+|	|SCK2.1 + PMS50003 + 3EC`**` + SCD30	|OUTDOOR`*` `(B)`	|AUX003		|CNC Milling	|[Files](SCK2.1_PMS5003_3EC_CO2/HDPE)				|Prototype	`(C)`					|
 
-* 	_Outdoor resistant only if used with auxiliary umbrella_
-** 	_2EC = 2xA-series Alphasense sensors_
-*** _3EC = 3xA-series Alphasense sensors_
+Comments:
+- `*` 	_Outdoor resistant only if used with auxiliary umbrella_
+- `**` 	_2EC = 2xA-series Alphasense sensors_
+- `***` _3EC = 3xA-series Alphasense sensors_
 
 **Notes:**
 
-(A): This enclosure is meant as a boilerplate for contributions in 3D printed format.
-(B): All these designs share the same cover available in two formats indoor, or outdoor version. See below for more details.
-(C): Currently under development
+- `(A)`: This enclosure is meant as a boilerplate for contributions in 3D printed format.
+- `(B)`: All these designs share the same cover available in two formats indoor, or outdoor version. See below for more details.
+- `(C)`: Currently under development
 
 ### Community contributed enclosures
 
