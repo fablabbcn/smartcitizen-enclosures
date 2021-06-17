@@ -41,7 +41,7 @@ Comments:
 **Notes:**
 
 - `(A)`: This enclosure is meant as a boilerplate for contributions in 3D printed format.
-- `(B)`: All these designs share the same cover available in two formats indoor, or outdoor version. See below for more details.
+- `(B)`: All these designs share the same cover available in two formats: indoor, or outdoor version.
 - `(C)`: Currently under development
 
 ### Community contributed enclosures
