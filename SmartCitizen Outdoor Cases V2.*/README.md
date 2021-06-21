@@ -20,18 +20,18 @@ The table below will guide you through the selection process of your enclosure:
 |:-:|:-:								|:-:			|:-:		|:-:			|:-:   												|:-:							|
 |	|SCK2.1 + PMS50003					|INDOOR			|			|3D Printing	|[Files](SCK2.1_PMS5003/3D%20Printed%20Prototype)		|Boilerplate `(A)`				|
 |	|SCK2.1 + PMS50003					|OUTDOOR		|AUX001		|CNC Milling	|[Files](SCK2.1_PMS5003/HDPE%20circle)				|Production						|
-|	|SCK2.1 + PMS50003					|OUTDOOR*		|AUX004		|CNC Milling	|[Files](SCK2.1_PMS5003/HDPE%20square)				|Prototype						|
-|	|SCK2.1 + PMS50003					|OUTDOOR*		|AUX003		|3D Printing	|[Files](SCK2.1_PMS5003/3D%20Printed%20square)			|Prototype	 `(A)`				|
-|	|SCK2.1 + PMS50003 + SCD30			|OUTDOOR`*` `(B)`	|AUX003		|3D Printing	|[Files](SCK2.1_PMS5003_CO2/3D%20Printed)				|Production						|
-|	|SCK2.1 + PMS50003 + SCD30			|OUTDOOR`*` `(B)`	|AUX003		|CNC Milling	|[Files](SCK2.1_PMS5003_CO2/HDPE)					|Prototype	`(C)`					|
-|	|SCK2.1 + PMS50003 + 2EC`**` 		|OUTDOOR`*` `(B)`	|AUX003		|3D Printing	|[Files](SCK2.1_PMS5003_2EC/3D%20Printed)				|Prototype	`(C)`					|
-|	|SCK2.1 + PMS50003 + 2EC`**` 		|OUTDOOR`*` `(B)`	|AUX003		|CNC Milling	|[Files](SCK2.1_PMS5003_2EC/HDPE)					|Prototype	`(C)`					|
-|	|SCK2.1 + PMS50003 + 2EC`**` + SCD30	|OUTDOOR`*` `(B)`	|AUX003		|3D Printing	|[Files](SCK2.1_PMS5003_2EC_CO2/3D%20Printed)			|Prototype	`(C)`					|
-|	|SCK2.1 + PMS50003 + 2EC`**` + SCD30	|OUTDOOR`*` `(B)`	|AUX003		|CNC Milling	|[Files](SCK2.1_PMS5003_2EC_CO2/HDPE)				|Prototype	`(C)`					|
-|	|SCK2.1 + PMS50003 + 3EC`**` 		|OUTDOOR`*` `(B)`	|AUX003		|3D Printing	|[Files](SCK2.1_PMS5003_3EC/3D%20Printed)				|Prototype	`(C)`					|
-|	|SCK2.1 + PMS50003 + 3EC`**` 		|OUTDOOR`*` `(B)`	|AUX003		|CNC Milling	|[Files](SCK2.1_PMS5003_3EC/HDPE)					|Prototype	`(C)`					|
-|	|SCK2.1 + PMS50003 + 3EC`**` + SCD30	|OUTDOOR`*` `(B)`	|AUX003		|3D Printing	|[Files](SCK2.1_PMS5003_3EC_CO2/3D%20Printed)			|Prototype	`(C)`					|
-|	|SCK2.1 + PMS50003 + 3EC`**` + SCD30	|OUTDOOR`*` `(B)`	|AUX003		|CNC Milling	|[Files](SCK2.1_PMS5003_3EC_CO2/HDPE)				|Prototype	`(C)`					|
+|	|SCK2.1 + PMS50003					|OUTDOOR*		|AUX002		|CNC Milling	|[Files](SCK2.1_PMS5003/HDPE%20square)				|Prototype						|
+|	|SCK2.1 + PMS50003					|OUTDOOR*		|AUX002		|3D Printing	|[Files](SCK2.1_PMS5003/3D%20Printed%20square)			|Prototype	 `(A)`				|
+|	|SCK2.1 + PMS50003 + SCD30			|OUTDOOR`*` `(B)`	|AUX002		|3D Printing	|[Files](SCK2.1_PMS5003_CO2/3D%20Printed)				|Production						|
+|	|SCK2.1 + PMS50003 + SCD30			|OUTDOOR`*` `(B)`	|AUX002		|CNC Milling	|[Files](SCK2.1_PMS5003_CO2/HDPE)					|Prototype	`(C)`					|
+|	|SCK2.1 + PMS50003 + 2EC`**` 		|OUTDOOR`*` `(B)`	|AUX002		|3D Printing	|[Files](SCK2.1_PMS5003_2EC/3D%20Printed)				|Prototype	`(C)`					|
+|	|SCK2.1 + PMS50003 + 2EC`**` 		|OUTDOOR`*` `(B)`	|AUX002		|CNC Milling	|[Files](SCK2.1_PMS5003_2EC/HDPE)					|Prototype	`(C)`					|
+|	|SCK2.1 + PMS50003 + 2EC`**` + SCD30	|OUTDOOR`*` `(B)`	|AUX002		|3D Printing	|[Files](SCK2.1_PMS5003_2EC_CO2/3D%20Printed)			|Prototype	`(C)`					|
+|	|SCK2.1 + PMS50003 + 2EC`**` + SCD30	|OUTDOOR`*` `(B)`	|AUX002		|CNC Milling	|[Files](SCK2.1_PMS5003_2EC_CO2/HDPE)				|Prototype	`(C)`					|
+|	|SCK2.1 + PMS50003 + 3EC`**` 		|OUTDOOR`*` `(B)`	|AUX002		|3D Printing	|[Files](SCK2.1_PMS5003_3EC/3D%20Printed)				|Prototype	`(C)`					|
+|	|SCK2.1 + PMS50003 + 3EC`**` 		|OUTDOOR`*` `(B)`	|AUX002		|CNC Milling	|[Files](SCK2.1_PMS5003_3EC/HDPE)					|Prototype	`(C)`					|
+|	|SCK2.1 + PMS50003 + 3EC`**` + SCD30	|OUTDOOR`*` `(B)`	|AUX002		|3D Printing	|[Files](SCK2.1_PMS5003_3EC_CO2/3D%20Printed)			|Prototype	`(C)`					|
+|	|SCK2.1 + PMS50003 + 3EC`**` + SCD30	|OUTDOOR`*` `(B)`	|AUX002		|CNC Milling	|[Files](SCK2.1_PMS5003_3EC_CO2/HDPE)				|Prototype	`(C)`					|
 
 Comments:
 - `*` 	_Outdoor resistant only if used with auxiliary umbrella_
@@ -41,7 +41,7 @@ Comments:
 **Notes:**
 
 - `(A)`: This enclosure is meant as a boilerplate for contributions in 3D printed format.
-- `(B)`: All these designs share the same cover available in two formats: indoor, or outdoor version.
+(B): All these designs share the same cover available in two formats indoor, or outdoor version. The cover is available in [the CO2 version](SCK2.1_PMS5003_CO2/3D Printed/components) as `cover.stl` or `cover-acrylic.stl` for a more user friendly one for indoor use. The `cover-acrylic` version uses a 3mm laser cut acrylic available in `acrylic.dxf`
 - `(C)`: Currently under development
 
 ### Community contributed enclosures
