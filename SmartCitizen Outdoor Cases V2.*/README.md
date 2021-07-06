@@ -56,7 +56,7 @@ Comments:
 
 |ID 	|Process				|Files 											|Description										|
 :-:		|:-:					|:-:											|:-:												|
-|AUX001	|Sheet metal 			|[Files](SCK2.1_PMS5003/HDPE circle/drawing_metal_sheet.pdf)	|Inox flange with mounting points for Power Supply	|
+|AUX001	|Sheet metal 			|[Files](SCK2.1_PMS5003/HDPE%20circle/drawing_metal_sheet.pdf)	|Inox flange with mounting points for Power Supply	|
 |AUX002	|Dibond bending 		|[Files](AUX_COVER/) 	| Small umbrella cover	|
 |AUX003	|Dibond bending 		|See Station Rev3 folder 											|Medium umbrella cover								|
 
