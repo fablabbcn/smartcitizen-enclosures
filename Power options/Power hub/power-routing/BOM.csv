@@ -1,0 +1,7 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"R1";"fab-R1206FAB";1;"220Ω";;;
+2;"M1";"fab-LED1206FAB";1;"RED";;;
+3;"J8,J7";"HW4-SMD-2.0-90D";2;"GROVE-CONNECTOR-DIP-90D_4P-2.0_";;;
+4;"J6";"USB_A_Amphenol_87520-1110BLF";1;"USB_A";;;
+5;"J4,J3,J2";"TerminalBlock_Phoenix_PT-1,5-2-3.5-H_1x02_P3.50mm_Horizontal";3;"Screw_Terminal_01x02";;;
+6;"J1";"PinHeader_1x05_P2.54mm_Vertical";1;"Input_Bulgin";;;

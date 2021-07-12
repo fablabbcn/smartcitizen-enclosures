@@ -29,3 +29,10 @@ We use an MPTT Sunflower Solar power manager 5V [from DF Robot](https://wiki.dfr
 ## Enclosure
 
 A [Bopla Polymas PK 102-211](https://www.bopla.de/en/enclosure-technology/product/euromas-polymas/euromas-polymas-enclosures/pk-102-211.html) enclosure is used for both options. The models can be found in the manufacturer's site in STP format. More references in the [References](References/) folder.
+
+## Extras
+
+Some extras are included in this folder for cases in which power distribution + USB data is needed, or a tiny board to host a reset button:
+
+- [Power hub](Power%20hub/)
+- [Reset button](Reset%20button)

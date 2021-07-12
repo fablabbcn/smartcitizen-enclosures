@@ -1,0 +1,181 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# Connector_Conn_01x05_Female
+#
+DEF Connector_Conn_01x05_Female J 0 40 Y N 1 F N
+F0 "J" 0 300 50 H V C CNN
+F1 "Connector_Conn_01x05_Female" 0 -300 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+$FPLIST
+ Connector*:*_1x??_*
+$ENDFPLIST
+DRAW
+A 0 -200 20 901 -901 1 1 6 N 0 -180 0 -220
+A 0 -100 20 901 -901 1 1 6 N 0 -80 0 -120
+A 0 0 20 901 -901 1 1 6 N 0 20 0 -20
+A 0 100 20 901 -901 1 1 6 N 0 120 0 80
+A 0 200 20 901 -901 1 1 6 N 0 220 0 180
+P 2 1 1 6 -50 -200 -20 -200 N
+P 2 1 1 6 -50 -100 -20 -100 N
+P 2 1 1 6 -50 0 -20 0 N
+P 2 1 1 6 -50 100 -20 100 N
+P 2 1 1 6 -50 200 -20 200 N
+X Pin_1 1 -200 200 150 R 50 50 1 1 P
+X Pin_2 2 -200 100 150 R 50 50 1 1 P
+X Pin_3 3 -200 0 150 R 50 50 1 1 P
+X Pin_4 4 -200 -100 150 R 50 50 1 1 P
+X Pin_5 5 -200 -200 150 R 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# Connector_Screw_Terminal_01x02
+#
+DEF Connector_Screw_Terminal_01x02 J 0 40 Y N 1 F N
+F0 "J" 0 100 50 H V C CNN
+F1 "Connector_Screw_Terminal_01x02" 0 -200 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+$FPLIST
+ TerminalBlock*:*
+$ENDFPLIST
+DRAW
+C 0 -100 25 1 1 6 N
+C 0 0 25 1 1 6 N
+S -50 50 50 -150 1 1 10 f
+P 2 1 1 6 -21 -87 13 -120 N
+P 2 1 1 6 -21 13 13 -20 N
+P 2 1 1 6 -14 -80 20 -113 N
+P 2 1 1 6 -14 20 20 -13 N
+X Pin_1 1 -200 0 150 R 50 50 1 1 P
+X Pin_2 2 -200 -100 150 R 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# Mechanical_MountingHole
+#
+DEF Mechanical_MountingHole H 0 40 Y Y 1 F N
+F0 "H" 0 200 50 H V C CNN
+F1 "Mechanical_MountingHole" 0 125 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+$FPLIST
+ MountingHole*
+$ENDFPLIST
+DRAW
+C 0 0 50 0 1 50 N
+ENDDRAW
+ENDDEF
+#
+# fab_LEDFAB1206
+#
+DEF fab_LEDFAB1206 M 0 40 N N 1 L N
+F0 "M" 105 -80 45 V V L BNN
+F1 "fab_LEDFAB1206" 190 -80 45 V V L BNN
+F2 "fab-LED1206FAB" 30 150 20 H I C CNN
+F3 "" 0 0 50 H I C CNN
+$FPLIST
+ *LED1206FAB*
+$ENDFPLIST
+DRAW
+P 2 1 0 0 -80 70 -135 15 N
+P 2 1 0 0 -75 25 -130 -30 N
+P 2 1 0 0 0 0 -50 0 N
+P 2 1 0 0 0 0 -50 100 N
+P 2 1 0 0 0 100 -50 100 N
+P 2 1 0 0 0 100 0 0 N
+P 2 1 0 0 50 0 0 0 N
+P 2 1 0 0 50 100 0 0 N
+P 2 1 0 0 50 100 0 100 N
+P 6 1 1 0 -135 15 -120 50 -120 50 -100 30 -100 30 -135 15 F
+P 6 1 1 0 -130 -30 -115 5 -115 5 -95 -15 -95 -15 -130 -30 F
+X A 1 0 200 100 D 40 40 1 1 P
+X C 2 0 -100 100 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# fab_RES-US1206FAB
+#
+DEF fab_RES-US1206FAB R 0 40 N N 1 L N
+F0 "R" -150 59 45 H V L BNN
+F1 "fab_RES-US1206FAB" -150 -130 45 H V L BNN
+F2 "fab-R1206FAB" 30 150 20 H I C CNN
+F3 "" 0 0 50 H I C CNN
+$FPLIST
+ *R1206FAB*
+$ENDFPLIST
+DRAW
+P 2 1 0 0 -100 0 -85 40 N
+P 2 1 0 0 -85 40 -60 -40 N
+P 2 1 0 0 -60 -40 -35 40 N
+P 2 1 0 0 -35 40 -10 -40 N
+P 2 1 0 0 -10 -40 15 40 N
+P 2 1 0 0 15 40 40 -40 N
+P 2 1 0 0 40 -40 65 40 N
+P 2 1 0 0 65 40 90 -40 N
+P 2 1 0 0 90 -40 100 0 N
+X 1 1 -200 0 100 R 40 40 1 1 P
+X 2 2 200 0 100 L 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# logos_fablab
+#
+DEF logos_fablab U 0 40 Y Y 1 F N
+F0 "U" 0 0 50 H V C CNN
+F1 "logos_fablab" 0 0 50 H V C CNN
+F2 "logos:fablab" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+C 0 0 158 0 1 0 N
+ENDDRAW
+ENDDEF
+#
+# logos_smartcitizen
+#
+DEF logos_smartcitizen U 0 40 Y Y 1 F N
+F0 "U" 0 0 50 H V C CNN
+F1 "logos_smartcitizen" 0 0 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+C 0 0 180 0 1 0 N
+C 0 0 206 0 1 0 N
+ENDDRAW
+ENDDEF
+#
+# power-routing-rescue_USB_A-Connector
+#
+DEF power-routing-rescue_USB_A-Connector J 0 40 Y Y 1 F N
+F0 "J" -200 450 50 H V L CNN
+F1 "power-routing-rescue_USB_A-Connector" -200 350 50 H V L CNN
+F2 "" 150 -50 50 H I C CNN
+F3 "" 150 -50 50 H I C CNN
+$FPLIST
+ USB*
+$ENDFPLIST
+DRAW
+C -150 85 25 0 1 10 F
+C -25 135 15 0 1 10 F
+S -200 -300 200 300 0 1 10 f
+S -60 190 -170 210 0 1 0 F
+S -50 180 -180 230 0 1 0 N
+S -5 -300 5 -270 0 1 0 N
+S 10 50 -20 20 0 1 10 F
+S 200 -105 170 -95 0 1 0 N
+S 200 -5 170 5 0 1 0 N
+S 200 195 170 205 0 1 0 N
+P 4 0 1 10 -125 85 -100 85 -50 135 -25 135 N
+P 4 0 1 10 -100 85 -75 85 -50 35 0 35 N
+P 4 0 1 10 25 110 25 60 75 85 25 110 F
+P 2 1 1 10 -75 85 25 85 N
+X VBUS 1 300 200 100 L 50 50 1 1 W
+X D- 2 300 -100 100 L 50 50 1 1 P
+X D+ 3 300 0 100 L 50 50 1 1 P
+X GND 4 0 -400 100 U 50 50 1 1 W
+X Shield 5 -100 -400 100 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library
