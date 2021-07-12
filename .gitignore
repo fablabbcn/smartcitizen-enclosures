@@ -5,3 +5,7 @@
 *.sch-bak
 fp-info-cache
 *.kicad_pcb-bak
+*.gbr
+*.cmp
+*.drl
+*.zip
