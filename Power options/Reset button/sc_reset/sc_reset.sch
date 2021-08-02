@@ -68,15 +68,4 @@ F 3 "~" H 6450 2650 50  0001 C CNN
 	1    6450 2650
 	1    0    0    -1  
 $EndComp
-$Comp
-L Mechanical:MountingHole H2
-U 1 1 60EC1B46
-P 6450 2900
-F 0 "H2" H 6550 2946 50  0000 L CNN
-F 1 "MountingHole" H 6550 2855 50  0000 L CNN
-F 2 "MountingHole:MountingHole_3.2mm_M3" H 6450 2900 50  0001 C CNN
-F 3 "~" H 6450 2900 50  0001 C CNN
-	1    6450 2900
-	1    0    0    -1  
-$EndComp
 $EndSCHEMATC
