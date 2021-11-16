@@ -28,10 +28,10 @@ The table below will guide you through the selection process of your enclosure:
 |	|SCK2.1 + PMS50003 + 2EC`**` 		|OUTDOOR`*` `(B)`	|AUX002		|CNC Milling	|[Files](SCK2.1_PMS5003_2EC/HDPE)					|Prototype	`(C)`					|
 |	|SCK2.1 + PMS50003 + 2EC`**` + SCD30	|OUTDOOR`*` `(B)`	|AUX002		|3D Printing	|[Files](SCK2.1_PMS5003_2EC_CO2/3D%20Printed)			|Prototype	`(C)`					|
 |	|SCK2.1 + PMS50003 + 2EC`**` + SCD30	|OUTDOOR`*` `(B)`	|AUX002		|CNC Milling	|[Files](SCK2.1_PMS5003_2EC_CO2/HDPE)				|Prototype	`(C)`					|
-|	|SCK2.1 + PMS50003 + 3EC`**` 		|OUTDOOR`*` `(B)`	|AUX002		|3D Printing	|[Files](SCK2.1_PMS5003_3EC/3D%20Printed)				|Prototype	`(C)`					|
-|	|SCK2.1 + PMS50003 + 3EC`**` 		|OUTDOOR`*` `(B)`	|AUX002		|CNC Milling	|[Files](SCK2.1_PMS5003_3EC/HDPE)					|Prototype	`(C)`					|
-|	|SCK2.1 + PMS50003 + 3EC`**` + SCD30	|OUTDOOR`*` `(B)`	|AUX002		|3D Printing	|[Files](SCK2.1_PMS5003_3EC_CO2/3D%20Printed)			|Prototype	`(C)`					|
-|	|SCK2.1 + PMS50003 + 3EC`**` + SCD30	|OUTDOOR`*` `(B)`	|AUX002		|CNC Milling	|[Files](SCK2.1_PMS5003_3EC_CO2/HDPE)				|Prototype	`(C)`					|
+|	|SCK2.1 + PMS50003 + 3EC`**` 		|OUTDOOR`*` `(B)`	|AUX002		|3D Printing	|[Files - not yet](SCK2.1_PMS5003_3EC/3D%20Printed)				|Prototype	`(C)`					|
+|	|SCK2.1 + PMS50003 + 3EC`**` 		|OUTDOOR`*` `(B)`	|AUX002		|CNC Milling	|[Files - not yet](SCK2.1_PMS5003_3EC/HDPE)					|Prototype	`(C)`					|
+|	|SCK2.1 + PMS50003 + 3EC`**` + SCD30	|OUTDOOR`*` `(B)`	|AUX002		|3D Printing	|[Files - not yet](SCK2.1_PMS5003_3EC_CO2/3D%20Printed)			|Prototype	`(C)`					|
+|	|SCK2.1 + PMS50003 + 3EC`**` + SCD30	|OUTDOOR`*` `(B)`	|AUX002		|CNC Milling	|[Files - not yet](SCK2.1_PMS5003_3EC_CO2/HDPE)				|Prototype	`(C)`					|
 
 Comments:
 - `*` 	_Outdoor resistant only if used with auxiliary umbrella_
