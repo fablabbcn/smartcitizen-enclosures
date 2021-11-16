@@ -41,7 +41,7 @@ Comments:
 **Notes:**
 
 - `(A)`: This enclosure is meant as a boilerplate for contributions in 3D printed format.
-- `(B)`: All these designs share the same cover available in two formats indoor, or outdoor version. The cover is available in [the CO2 version](SCK2.1_PMS5003_CO2/3D Printed/components) as `cover.stl` or `cover-acrylic.stl` for a more user friendly one for indoor use. The `cover-acrylic` version uses a 3mm laser cut acrylic available in `acrylic.dxf`
+- `(B)`: All these designs share the same cover available in two formats indoor, or outdoor version. The cover is available in [the CO2 version](SCK2.1_PMS5003_CO2/3D%20Printed/components) as `cover.stl` or `cover-acrylic.stl` for a more user friendly one for indoor use. The `cover-acrylic` version uses a 3mm laser cut acrylic available in `acrylic.dxf`
 - `(C)`: Currently under development
 
 ### Community contributed enclosures
