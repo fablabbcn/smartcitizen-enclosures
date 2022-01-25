@@ -18,20 +18,20 @@ The table below will guide you through the selection process of your enclosure:
 
 |ID	|Sensors							|Exposure		|Extras		|Process		|Files   											|Status							|
 |:-:|:-:								|:-:			|:-:		|:-:			|:-:   												|:-:							|
-|	|SCK2.1 + PMS50003					|INDOOR			|			|3D Printing	|[Files](SCK2.1_PMS5003/3D%20Printed%20Prototype)		|Boilerplate `(A)`				|
-|	|SCK2.1 + PMS50003					|OUTDOOR		|AUX001		|CNC Milling	|[Files](SCK2.1_PMS5003/HDPE%20circle)				|Production						|
-|	|SCK2.1 + PMS50003					|OUTDOOR*		|AUX002		|CNC Milling	|[Files](SCK2.1_PMS5003/HDPE%20square)				|Prototype						|
-|	|SCK2.1 + PMS50003					|OUTDOOR*		|AUX002		|3D Printing	|[Files](SCK2.1_PMS5003/3D%20Printed%20square)			|Prototype	 `(A)`				|
-|	|SCK2.1 + PMS50003 + SCD30			|OUTDOOR`*` `(B)`	|AUX002		|3D Printing	|[Files](SCK2.1_PMS5003_CO2/3D%20Printed)				|Production						|
-|	|SCK2.1 + PMS50003 + SCD30			|OUTDOOR`*` `(B)`	|AUX002		|CNC Milling	|[Files](SCK2.1_PMS5003_CO2/HDPE)					|Prototype	`(C)`					|
-|	|SCK2.1 + PMS50003 + 2EC`**` 		|OUTDOOR`*` `(B)`	|AUX002		|3D Printing	|[Files](SCK2.1_PMS5003_2EC/3D%20Printed)				|Prototype	`(C)`					|
-|	|SCK2.1 + PMS50003 + 2EC`**` 		|OUTDOOR`*` `(B)`	|AUX002		|CNC Milling	|[Files](SCK2.1_PMS5003_2EC/HDPE)					|Prototype	`(C)`					|
-|	|SCK2.1 + PMS50003 + 2EC`**` + SCD30	|OUTDOOR`*` `(B)`	|AUX002		|3D Printing	|[Files](SCK2.1_PMS5003_2EC_CO2/3D%20Printed)			|Prototype	`(C)`					|
-|	|SCK2.1 + PMS50003 + 2EC`**` + SCD30	|OUTDOOR`*` `(B)`	|AUX002		|CNC Milling	|[Files](SCK2.1_PMS5003_2EC_CO2/HDPE)				|Prototype	`(C)`					|
-|	|SCK2.1 + PMS50003 + 3EC`**` 		|OUTDOOR`*` `(B)`	|AUX002		|3D Printing	|[Files - not yet](SCK2.1_PMS5003_3EC/3D%20Printed)				|Prototype	`(C)`					|
-|	|SCK2.1 + PMS50003 + 3EC`**` 		|OUTDOOR`*` `(B)`	|AUX002		|CNC Milling	|[Files - not yet](SCK2.1_PMS5003_3EC/HDPE)					|Prototype	`(C)`					|
-|	|SCK2.1 + PMS50003 + 3EC`**` + SCD30	|OUTDOOR`*` `(B)`	|AUX002		|3D Printing	|[Files - not yet](SCK2.1_PMS5003_3EC_CO2/3D%20Printed)			|Prototype	`(C)`					|
-|	|SCK2.1 + PMS50003 + 3EC`**` + SCD30	|OUTDOOR`*` `(B)`	|AUX002		|CNC Milling	|[Files - not yet](SCK2.1_PMS5003_3EC_CO2/HDPE)				|Prototype	`(C)`					|
+|ENC0	|SCK2.1 + PMS50003					|INDOOR			|			|3D Printing	|[Files](SCK2.1_PMS5003/3D%20Printed%20Prototype)		|Boilerplate `(A)`				|
+|ENC1	|SCK2.1 + PMS50003					|OUTDOOR		|AUX001		|CNC Milling	|[Files](SCK2.1_PMS5003/HDPE%20circle)				|Production						|
+|ENC2	|SCK2.1 + PMS50003					|OUTDOOR*		|AUX002		|CNC Milling	|[Files](SCK2.1_PMS5003/HDPE%20square)				|Prototype						|
+|ENC3	|SCK2.1 + PMS50003					|OUTDOOR*		|AUX002		|3D Printing	|[Files](SCK2.1_PMS5003/3D%20Printed%20square)			|Prototype	 `(A)`				|
+|ENC4	|SCK2.1 + PMS50003 + SCD30			|OUTDOOR`*` `(B)`	|AUX002		|3D Printing	|[Files](SCK2.1_PMS5003_CO2/3D%20Printed)				|Production						|
+|ENC5	|SCK2.1 + PMS50003 + SCD30			|OUTDOOR`*` `(B)`	|AUX002		|CNC Milling	|[Files](SCK2.1_PMS5003_CO2/HDPE)					|Prototype	`(C)`					|
+|ENC6	|SCK2.1 + PMS50003 + 2EC`**` 		|OUTDOOR`*` `(B)`	|AUX002		|3D Printing	|[Files](SCK2.1_PMS5003_2EC/3D%20Printed)				|Production					|
+|ENC7	|SCK2.1 + PMS50003 + 2EC`**` 		|OUTDOOR`*` `(B)`	|AUX002		|CNC Milling	|[Files](SCK2.1_PMS5003_2EC/HDPE)					|Prototype	`(C)`					|
+|ENC8	|SCK2.1 + PMS50003 + 2EC`**` + SCD30	|OUTDOOR`*` `(B)`	|AUX002		|3D Printing	|[Files](SCK2.1_PMS5003_2EC_CO2/3D%20Printed)			|Prototype	`(C)`					|
+|ENC9	|SCK2.1 + PMS50003 + 2EC`**` + SCD30	|OUTDOOR`*` `(B)`	|AUX002		|CNC Milling	|[Files](SCK2.1_PMS5003_2EC_CO2/HDPE)				|Prototype	`(C)`					|
+|ENC10	|SCK2.1 + PMS50003 + 3EC`**` 		|OUTDOOR`*` `(B)`	|AUX002		|3D Printing	|[Files - not yet](SCK2.1_PMS5003_3EC/3D%20Printed)				|Prototype	`(C)`					|
+|ENC11	|SCK2.1 + PMS50003 + 3EC`**` 		|OUTDOOR`*` `(B)`	|AUX002		|CNC Milling	|[Files - not yet](SCK2.1_PMS5003_3EC/HDPE)					|Prototype	`(C)`					|
+|ENC12	|SCK2.1 + PMS50003 + 3EC`**` + SCD30	|OUTDOOR`*` `(B)`	|AUX002		|3D Printing	|[Files - not yet](SCK2.1_PMS5003_3EC_CO2/3D%20Printed)			|Prototype	`(C)`					|
+|ENC13	|SCK2.1 + PMS50003 + 3EC`**` + SCD30	|OUTDOOR`*` `(B)`	|AUX002		|CNC Milling	|[Files - not yet](SCK2.1_PMS5003_3EC_CO2/HDPE)				|Prototype	`(C)`					|
 
 Comments:
 - `*` 	_Outdoor resistant only if used with auxiliary umbrella_
@@ -51,12 +51,12 @@ Comments:
 |	|SCK2.1 + PMS50003			|-			|-			|3D Printing	|[Files](SCK2.1_PMS5003/3D%20Printed%20SCK2.1%20IaaC%20Style)		|
 |	|SCK2.1 + PMS50003			|OUTDOOR	|-			|3D Printing	|[Files](SCK2.1_PMS5003/3D%20Printed%20Modular%20Viadukaduk)		|
 |	|SCK2.1 + PMS50003			|OUTDOOR	|-			|3D Printing	|[Files](SCK2.1_PMS5003/3D%20Printed%20Prototype)				|
-                        
+
 ### Auxiliaries
 
 |ID 	|Process				|Files 											|Description										|
 :-:		|:-:					|:-:											|:-:												|
 |AUX001	|Sheet metal 			|[Files](SCK2.1_PMS5003/HDPE%20circle/drawing_metal_sheet.pdf)	|Inox flange with mounting points for Power Supply	|
-|AUX002	|Dibond bending 		|[Files](AUX_COVER/) 	| Small umbrella cover	|
+|AUX002	|Dibond bending 		|[Files](AUX_COVER/) 	| Small umbrella cover compatible with ENC4 to ENC13	|
 |AUX003	|Dibond bending 		|See Station Rev3 folder 											|Medium umbrella cover								|
 
