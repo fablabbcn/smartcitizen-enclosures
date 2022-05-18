@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/fablabbcn/smartcitizen-enclosures/master/SmartCitizen%20Outdoor%20Cases%20V2.0-2.1/Mixed%20Solution/case_render.png)
+![](https://raw.githubusercontent.com/fablabbcn/smartcitizen-enclosures/master/SmartCitizen%20Outdoor%20Cases%20V2.X/SCK2.1_PMS5003/3D%20Printed%20%2B%20HDPE/case_render.png)
 
 This enclosure is a mixed solution with 3D printed components and commercial parts (PMMA-Acrylic pipe). The top lid can be either milled or printed.
 
