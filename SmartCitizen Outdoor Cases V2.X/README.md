@@ -51,6 +51,7 @@ Comments:
 |	|SCK2.1 + PMS50003			|-			|-			|3D Printing	|[Files](SCK2.1_PMS5003/3D%20Printed%20SCK2.1%20IaaC%20Style)		|
 |	|SCK2.1 + PMS50003			|OUTDOOR	|-			|3D Printing	|[Files](SCK2.1_PMS5003/3D%20Printed%20Modular%20Viadukaduk)		|
 |	|SCK2.1 + PMS50003			|OUTDOOR	|-			|3D Printing	|[Files](SCK2.1_PMS5003/3D%20Printed%20Prototype)				|
+| |SCK2.1 + PMS5003 + GPS |OUTDOOR - Bike mounted |- |3D Printing |[Link](https://www.printables.com/es/model/219574-smart-citizen-kit-21-case-supports-and-bicycle-mou) |
 
 ### Auxiliaries
 
