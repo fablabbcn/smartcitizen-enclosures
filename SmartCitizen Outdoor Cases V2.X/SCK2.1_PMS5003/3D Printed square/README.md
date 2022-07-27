@@ -58,3 +58,13 @@ There are optional components for you to connect a PM board, or a hub for the I2
 
 The 3D printed base is [this one](components/base_w_holder.stl) and the cover, for the I2C hubs to fit should be [this one](components/cover-xl.stl) (not the best, but does the job).
 
+### Assembly
+
+You will need:
+
+- 2xM3 Inserts (+1 if you have a reset button, +2 more if you have external temperature sensor)
+- 2xM3x30mm to support all the electronics
+- 4xM3x10mm to close the enclosure
+- 2xM3x10mm to attach the temperature holder
+
+![](https://raw.githubusercontent.com/fablabbcn/smartcitizen-enclosures/master/SmartCitizen%20Outdoor%20Cases%20V2.X/SCK2.1_PMS5003/3D%20Printed%20square/extra-large-inside-assembly.png)
