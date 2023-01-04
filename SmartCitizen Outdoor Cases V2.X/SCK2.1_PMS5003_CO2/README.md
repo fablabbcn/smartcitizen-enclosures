@@ -1,1 +1,0 @@
-These enclosures are used for the SCK2.1 + PMS5003 with a Sensision SCD30 CO2 Sensor.

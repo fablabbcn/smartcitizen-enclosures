@@ -1,9 +1,0 @@
-(module PAD (layer F.Cu) (tedit 5CB712AF)
-  (fp_text reference "" (at 0.1 2.7) (layer F.SilkS) hide
-    (effects (font (size 1 1) (thickness 0.15)))
-  )
-  (fp_text value PAD (at 0 -0.5) (layer F.Fab)
-    (effects (font (size 1 1) (thickness 0.15)))
-  )
-  (pad "" np_thru_hole circle (at 0 0) (size 3 3) (drill 3) (layers *.Cu *.Mask))
-)

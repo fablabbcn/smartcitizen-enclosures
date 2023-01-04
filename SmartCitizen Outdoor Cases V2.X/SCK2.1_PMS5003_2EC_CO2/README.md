@@ -1,1 +1,0 @@
-These enclosures are used for the SCK2.1 + PMS5003 with 2xA-series alphasense sensors with one 2-way AFE and a Sensision SCD30 CO2 Sensor.

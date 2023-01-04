@@ -1,0 +1,1 @@
+Use clip and bridge from [SCK2.1_PMS5003_2EC/3D Printed version](/SmartCitizen Outdoor Cases V2.X/SCK2.1_PMS5003_2EC/3D Printed version).

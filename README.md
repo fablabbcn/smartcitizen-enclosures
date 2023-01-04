@@ -1,14 +1,14 @@
 
-![Smart Citizen Cases](https://cdn.rawgit.com/fablabbcn/smartcitizen-enclosures/master/enclosures.png)
+![Smart Citizen Cases](enclosures.png)
 
 Smart Citizen Enclosures
 ========================
 
-This is a repository we host enclosures we are developing for the Smart Citizen Kit 1.5 and 2.X family. If you are looking for outdoor cases, make sure to visit the [variants table](SmartCitizen Outdoor Cases V2.0-2.1/README.md) to find out what best suits your needs.
+This is a repository we host enclosures we are developing for the Smart Citizen Kit 1.5 and 2.X family. If you are looking for outdoor cases for the _SmartCitizen Kit or Stations_, make sure to visit the [variants table](SmartCitizen Air Enclosures/README.md) to find out what best suits your needs. If you are looking for _Water Kits or Stations_, check this [table](SmartCitizen Water Enclosures/README.md)
 
 ### Warning
 
-Please, take care this is work in progress archive. Sometimes documentation might be missing.
+Please, beware that this is always a _work in progress archive_. Sometimes documentation might be missing. Open an issue if you need!
 
 ### Contribute
 
