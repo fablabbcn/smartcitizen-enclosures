@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/fablabbcn/smartcitizen-enclosures/master/SmartCitizen%20Outdoor%20Cases%20V2.X/SCK2.1_PMS5003/3D%20Printed%20%2B%20HDPE/case_render.png)
+![](case_render.png)
 
 This enclosure is a mixed solution with 3D printed components and commercial parts (PMMA-Acrylic pipe). The top lid can be either milled or printed.
 
@@ -6,7 +6,7 @@ This enclosure is a mixed solution with 3D printed components and commercial par
 
 ## Printing settings
 
-![](https://raw.githubusercontent.com/fablabbcn/smartcitizen-enclosures/master/SmartCitizen%20Outdoor%20Cases%20V2.0-2.1/Mixed%20Solution/printing_base.png)
+![](printing_base.png)
 
 We have tested the 3D printed components with both PLA or ABS. Good results are achieved with a normal 0.4mm nozzle and 0.2 layer height. No raft or brim are needed.
 
@@ -30,4 +30,4 @@ A small cable gland is also design to help improve waterproofness and fix the US
 
 ### Top lid
 
-This part can be milled or printed. Same settings apply for this part, and the milling details are specifies in the [milled solution](https://github.com/fablabbcn/smartcitizen-enclosures/tree/master/SmartCitizen%20Outdoor%20Cases%20V2.0-2.1/Milled%20HDPE) section.
+This part can be milled or printed. Same settings apply for this part, and the milling details are specifies in the [milled solution](https://github.com/fablabbcn/smartcitizen-enclosures/tree/master/SmartCitizen%20Air%20Enclosures/SmartCitizen%20Kit/SCK2.1_PMS5003/HDPE%20circle) section.
