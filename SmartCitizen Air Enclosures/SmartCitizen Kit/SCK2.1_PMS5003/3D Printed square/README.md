@@ -38,13 +38,13 @@ If you want to make it waterproof, a rubber cord 2.5mm for the channel in the ba
 
 Check the details below.
 
-![](https://raw.githubusercontent.com/fablabbcn/smartcitizen-enclosures/master/SmartCitizen%20Outdoor%20Cases%20V2.X/SCK2.1_PMS5003/3D%20Printed%20square/detail.png)
+![](detail.png)
 
 ## Extra large version
 
 This version is meant to have extra space for a [PM Board](https://docs.smartcitizen.me/Components/boards/PM%20Board/), or I2C auxiliary sensors connected through the aux port. An example of the setup is shown below:
 
-![](https://raw.githubusercontent.com/fablabbcn/smartcitizen-enclosures/master/SmartCitizen%20Outdoor%20Cases%20V2.X/SCK2.1_PMS5003/3D%20Printed%20square/extra-large-inside.png)
+![](extra-large-inside.png)
 
 ### Components
 
@@ -67,4 +67,4 @@ You will need:
 - 4xM3x10mm to close the enclosure
 - 2xM3x10mm to attach the temperature holder
 
-![](https://raw.githubusercontent.com/fablabbcn/smartcitizen-enclosures/master/SmartCitizen%20Outdoor%20Cases%20V2.X/SCK2.1_PMS5003/3D%20Printed%20square/extra-large-inside-assembly.png)
+![](extra-large-inside-assembly.png)
