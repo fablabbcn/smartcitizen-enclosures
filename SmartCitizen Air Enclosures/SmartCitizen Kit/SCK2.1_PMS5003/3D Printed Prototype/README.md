@@ -1,10 +1,10 @@
-![](https://raw.githubusercontent.com/fablabbcn/smartcitizen-enclosures/master/SmartCitizen%20Outdoor%20Cases%20V2.0-2.1/3D%20Printed%20Prototype/case_render.png)
+![](case_render.png)
 
 This enclosure is a fully 3D printed solution. This case is a prototype, feel free to modify it!
 
 ## Printing settings
 
-![](https://raw.githubusercontent.com/fablabbcn/smartcitizen-enclosures/master/SmartCitizen%20Outdoor%20Cases%20V2.0-2.1/3D%20Printed%20Prototype/printing_base.png)
+![](printing_base.png)
 
 We have tested the 3D printed components with both PLA or ABS. Good results are achieved with a normal 0.4mm nozzle and 0.2 layer height. No raft or brim are needed.
 
