@@ -32,9 +32,9 @@ The table below will guide you through the selection process of your enclosure:
 |ENC11	|SCK2.1 + PMS50003 + 3ECA`**` + SCD30	|OUTDOOR`*` `(B)`	|AUX003		|3D Printing	|[Files - not yet](SmartCitizen%20Station/Mini%20Station/SCK2.1_PMS5003_3EC_CO2/3D%20Printed)	|Prototype	`(C)`				|
 |ENC12	|SCK2.1 + PMS50003 + 3ECA`**` + SCD30	|OUTDOOR`*` `(B)`	|AUX003		|CNC Milling	|[Files - not yet](SmartCitizen%20Station/Mini%20Station/SCK2.1_PMS5003_3EC_CO2/HDPE)			|Prototype	`(C)`				|
 |ENC13	|SCK2.1 + PMS50003 + 1ECB`**`			|OUTDOOR`*` `(B)`	|AUX003		|3D Printing	|[Files - not yet](SmartCitizen%20Station/Mini%20Station/SCK2.1_PMS5003_3EC_CO2/HDPE)			|Production						|
-|ENC14	|SCK2.1 + PMS50003 + 4ECB`**`			|OUTDOOR`*` `(B)`	|AUX004		|3D Printing	|[Files](SmartCitizen%20Station/Big%20Station/SCK2.1_PMS5003_4EC)								|Production						|
-|ENC15	|SCK2.1 + PMS50003 + 4ECB + SCD30`**`	|OUTDOOR`*` `(B)`	|AUX004		|3D Printing	|[Files](SmartCitizen%20Station/Big%20Station/SCK2.1_PMS5003_4EC_CO2)							|Production						|
-|ENC16	|SCK2.1 + PMS50003 + 6ECS`**`			|OUTDOOR`*` `(B)`	|AUX004		|3D Printing	|[Files](SmartCitizen%20Station/Big%20Station/SCK2.1_PMS5003_6EC)								|Production						|
+|ENC14	|SCK2.1 + PMS50003 + 4ECB`**`			|OUTDOOR`*` `(B)`	|AUX004		|3D Printing	|[Files](SmartCitizen%20Station/Big%20Station/SCK2.1_2PMS5003_4EC)								|Production						|
+|ENC15	|SCK2.1 + PMS50003 + 4ECB + SCD30`**`	|OUTDOOR`*` `(B)`	|AUX004		|3D Printing	|[Files](SmartCitizen%20Station/Big%20Station/SCK2.1_2PMS5003_4EC_CO2)							|Prototyping						|
+|ENC16	|SCK2.1 + PMS50003 + 6ECS`**`			|OUTDOOR`*` `(B)`	|AUX004		|3D Printing	|[Files](SmartCitizen%20Station/Big%20Station/SCK2.1_2PMS5003_6EC)								|Prototype						|
 			
 Comments:
 - `*` 	_Outdoor resistant only if used with auxiliary umbrella (read below)_
