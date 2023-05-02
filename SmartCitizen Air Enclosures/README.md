@@ -29,9 +29,9 @@ The table below will guide you through the selection process of your enclosure:
 |ENCL_A_007	|SCK2.1 + PMS50003 + 4ECB + SCD30`**`	|OUTDOOR`*` `(B)`	|AUX004		|3D Printing	|[Files](SmartCitizen%20Station/Big%20Station/SCK2.1_2PMS5003_4EC_CO2)							|Production						|
 |ENCL_A_008	|SCK2.1 + PMS50003 + 6ECS`**`			|OUTDOOR`*` `(B)`	|AUX004		|3D Printing	|[Files](SmartCitizen%20Station/Big%20Station/SCK2.1_2PMS5003_6EC)								|Prototype	`(C)`				|
 |ENCL_A_009	|SCK2.1 + PMS50003 + 1ECB`**`			|OUTDOOR`*` `(B)`	|AUX003		|3D Printing	|[Files - not yet](SmartCitizen%20Station/Mini%20Station/SCK2.1_PMS5003_1EC_B)					|Production						|
-|ENCL_A_010	|SCK2.1 + PMS50003 + SCD30				|OUTDOOR`*` `(B)`	|AUX003		|CNC Milling	|[Files](SmartCitizen%20Station/Mini%20Station/SCK2.1_PMS5003_CO2/HDPE)							|Prototype	`(C)`				|
-|ENCL_A_011	|SCK2.1 + PMS50003 + 2ECA`**` 			|OUTDOOR`*` `(B)`	|AUX003		|CNC Milling	|[Files](SmartCitizen%20Station/Mini%20Station/SCK2.1_PMS5003_2EC/HDPE)							|Prototype	`(C)`				|
-|ENCL_A_012	|SCK2.1 + PMS50003 + 2ECA`**` + SCD30	|OUTDOOR`*` `(B)`	|AUX003		|CNC Milling	|[Files](SmartCitizen%20Station/Mini%20Station/SCK2.1_PMS5003_2EC_CO2/HDPE)						|Prototype	`(C)`				|
+|ENCL_A_010	|SCK2.1 + PMS50003 + SCD30				|OUTDOOR`*` `(B)`	|AUX003		|CNC Milling	|[Files - not yet](SmartCitizen%20Station/Mini%20Station/SCK2.1_PMS5003_CO2/HDPE)				|Prototype	`(C)`				|
+|ENCL_A_011	|SCK2.1 + PMS50003 + 2ECA`**` 			|OUTDOOR`*` `(B)`	|AUX003		|CNC Milling	|[Files - not yet](SmartCitizen%20Station/Mini%20Station/SCK2.1_PMS5003_2EC/HDPE)				|Prototype	`(C)`				|
+|ENCL_A_012	|SCK2.1 + PMS50003 + 2ECA`**` + SCD30	|OUTDOOR`*` `(B)`	|AUX003		|CNC Milling	|[Files - not yet](SmartCitizen%20Station/Mini%20Station/SCK2.1_PMS5003_2EC_CO2/HDPE)			|Prototype	`(C)`				|
 |ENCL_A_013	|SCK2.1 + PMS50003 + 3ECA`**` 			|OUTDOOR`*` `(B)`	|AUX003		|3D Printing	|[Files - not yet](SmartCitizen%20Station/Mini%20Station/SCK2.1_PMS5003_3EC/3D%20Printed)		|Prototype	`(C)`				|
 |ENCL_A_014	|SCK2.1 + PMS50003 + 3ECA`**` 			|OUTDOOR`*` `(B)`	|AUX003		|CNC Milling	|[Files - not yet](SmartCitizen%20Station/Mini%20Station/SCK2.1_PMS5003_3EC/HDPE)				|Prototype	`(C)`				|
 |ENCL_A_015	|SCK2.1 + PMS50003 + 3ECA`**` + SCD30	|OUTDOOR`*` `(B)`	|AUX003		|3D Printing	|[Files - not yet](SmartCitizen%20Station/Mini%20Station/SCK2.1_PMS5003_3EC_CO2/3D%20Printed)	|Prototype	`(C)`				|
@@ -51,19 +51,19 @@ Comments:
 If you have more complex setups (for instance a [PM Board](https://docs.smartcitizen.me/Components/boards/PM%20Board/) or some [I2C Sensors](https://docs.smartcitizen.me/Components/Auxiliary%20Connector/), check how it's done in the [larger version of the SCK 2.1 enclosure](SCK2.1_PMS5003/3D%20Printed%20square)):
 
 ### Community contributed enclosures
-
+SmartCitizen Air Enclosures/SmartCitizen Kit/SCK2.1_PMS5003/3D Printed Modular Viadukaduk
 |ID		|Sensors					|Exposure				|Extras		|Process		|Files   																														|
 |:-:	|:-:						|:-:					|:-:		|:-:			|:-:   																															|
-|		|SCK2.1 + PMS50003			|-						|-			|3D Printing	|[Files](SmartCitizen%20Kit/SCK2.1_PMS5003/SCK2.1_PMS5003/3D%20Printed%20SCK2.1%20IaaC%20Style)		|
-|		|SCK2.1 + PMS50003			|OUTDOOR				|-			|3D Printing	|[Files](SmartCitizen%20Kit/SCK2.1_PMS5003/SCK2.1_PMS5003/3D%20Printed%20Modular%20Viadukaduk)		|
-|		|SCK2.1 + PMS50003			|OUTDOOR				|-			|3D Printing	|[Files](SmartCitizen%20Kit/SCK2.1_PMS5003/SCK2.1_PMS5003/3D%20Printed%20Prototype)					|
+|		|SCK2.1 + PMS50003			|-						|-			|3D Printing	|[Files](SmartCitizen%20Kit/SCK2.1_PMS5003/3D%20Printed%20SCK2.1%20IaaC%20Style)												|
+|		|SCK2.1 + PMS50003			|OUTDOOR				|-			|3D Printing	|[Files](SmartCitizen%20Kit/SCK2.1_PMS5003/3D%20Printed%20Modular%20Viadukaduk)													|
+|		|SCK2.1 + PMS50003			|OUTDOOR				|-			|3D Printing	|[Files](SmartCitizen%20Kit/SCK2.1_PMS5003/3D%20Printed%20Prototype)															|
 |   	|SCK2.1 + PMS5003 + GPS 	|OUTDOOR - Bike mounted |- 			|3D Printing 	|[Link](https://www.printables.com/es/model/219574-smart-citizen-kit-21-case-supports-and-bicycle-mou)  						|
 
 ### Auxiliaries
 
 |ID 	|Process					|Files 																													|Description												|
 |:-:	|:-:						|:-:																													|:-:														|
-|AUX001	|Sheet metal 				|[Files](SmartCitizen%20Kit/SCK2.1_PMS5003/HDPE%20circle/drawing_metal_sheet.pdf)		| Inox flange with mounting points for Power Supply			|
-|AUX002	|Dibond bending 			|[Files](SmartCitizen%20Kit/SCK2.1_PMS5003/3D%20Printed%20square/UMBRELLA)	 			| Small umbrella cover 										|
-|AUX003	|Dibond bending 			|[Files](SmartCitizen%20Station/Mini%20Station/UMBRELLA)								| Medium umbrella cover										|
-|AUX004	|Dibond bending 			|[Files](SmartCitizen%20Station/Big%20Station/UMBRELLA) 								| Large umbrella cover										|
+|AUX001	|Sheet metal 				|[Files](SmartCitizen%20Kit/SCK2.1_PMS5003/HDPE%20circle/drawing_metal_sheet.pdf)										| Inox flange with mounting points for Power Supply			|
+|AUX002	|Dibond bending 			|[Files](SmartCitizen%20Kit/SCK2.1_PMS5003/3D%20Printed%20square/UMBRELLA)	 											| Small umbrella cover 										|
+|AUX003	|Dibond bending 			|[Files](SmartCitizen%20Station/Mini%20Station/UMBRELLA)																| Medium umbrella cover										|
+|AUX004	|Dibond bending 			|[Files](SmartCitizen%20Station/Big%20Station/UMBRELLA) 																| Large umbrella cover										|
