@@ -1,6 +1,6 @@
 ![](SCK_T2_00.png)
 
-The Smartcitizen water kit is mountet inside a comercial [IP BOX](https://es.rs-online.com/web/p/cajas-de-uso-general/2663546) to make sure that the enclosure is going to be safer to have outside. This enclosure is very simple it only conains three 3D printed models easy to be print, no supports are need in any of the pieces.
+The Smartcitizen water kit is mounted inside a comercial [IP BOX](https://es.rs-online.com/web/p/cajas-de-uso-general/2663546) to make sure that the enclosure is going to be safer to have outside. This enclosure is very simple it only conains three 3D printed models easy to be print, no supports are need in any of the pieces.
 
 ## Printing Settings
 
