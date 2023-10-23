@@ -1,23 +1,24 @@
 ![](SCK_T2_00.png)
 
-The Smartcitizen water kit is mounted inside a comercial [IP BOX](https://es.rs-online.com/web/p/cajas-de-uso-general/2663546) to make sure that the enclosure is going to be safer to have outside. This enclosure is very simple it only conains three 3D printed models easy to be print, no supports are need in any of the pieces.
+The Smartcitizen water kit is mounted inside a commercial [IP BOX](https://es.rs-online.com/web/p/cajas-de-uso-general/2663546) to make sure that the enclosure is protected outdoors. This enclosure is very simple, it only conains three 3D printed models easy to be printed, no supports are needed in any of the pieces.
+
 
 ## Printing Settings
 
-This enclosure is very simple it only conains three 3D printed models easy to be print, no supports are need in any of the pieces. Watch carefully th orientation of the objects when printing to avoid supports. The pieces are normally printed in PLA but could be printed in ASA, PETG or ABS. Everything is printed with normal 0.4mm nozzle and 0.2mm layer height. We recomend to print with 3 perimeters to increasse strenghth.
+This enclosure is very simple it only contains three 3D printed models that are easy to print, no supports are needed for any of the pieces. Watch carefully the orientation of the objects when printing to avoid supports. The pieces are normally printed in PLA but could be printed in ASA, PETG or ABS. Everything is printed with a normal 0.4mm nozzle and 0.2mm layer height. We recommend printing with three perimeters to increase strength.
 ![](3d_printing.png)
 
 ### CLIP
 
-In this enclosure is needed a custom clip to be able to adapt the position of the screws to the [IP BOX](https://es.rs-online.com/web/p/cajas-de-uso-general/2663546)
+In this enclosure, a custom clip is needed to adapt the position of the screws to the [IP BOX](https://es.rs-online.com/web/p/cajas-de-uso-general/2663546).
 
 ### Carrier holder
 
-The carrier is hols in place with two screws, when the carrier and it's holder are together the whole piece can be screwed in to the box using the same two screws used fot the CLIP.stl.
+The carrier is held in place with two screws. When the carrier and its holder are together, the whole piece can be screwed into the box using the same two screws used for the CLIP.stl.
 
 ### SEP
 
-This small separators need to be placed between the CLIP.stl and the box to have a gap to place the battery. 
+These small separators need to be placed between the CLIP.stl and the box to have a gap to place the battery.
 
 ![SCK_T2_01](SCK_T2_01.jpg)
 
