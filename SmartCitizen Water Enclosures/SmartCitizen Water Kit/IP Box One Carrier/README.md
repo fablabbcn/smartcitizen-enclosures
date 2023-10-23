@@ -28,4 +28,6 @@ This small separators need to be placed between the CLIP.stl and the box to have
 * 2x M3 x 20mm screw
 * 1x M3 x 15mm screw
 * 1x [Fixed Terminal Blocks 5P 2.54mm 90DEG](https://www.mouser.es/ProductDetail/Phoenix-Contact/1725685?qs=A%2FKWGUWTCZiuYWt6zAMYZA%3D%3D)
-* 1x Grove-Universal 4Pin buckled 15cm cable 
+* 1x Grove-Universal 4Pin buckled 15cm cable
+* 1x SPLIT CABLE GLAND QVT 16 wo grommet.
+* ICOTEK GROMMET w/ two holes. 
