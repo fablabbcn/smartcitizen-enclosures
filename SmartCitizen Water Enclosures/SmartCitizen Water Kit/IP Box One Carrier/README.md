@@ -1,3 +1,5 @@
+# Smart Citizen Water Kit
+
 ![](SCK_T2_00.png)
 
 The Smartcitizen water kit is mounted inside a commercial [IP BOX](https://es.rs-online.com/web/p/cajas-de-uso-general/2663546) to make sure that the enclosure is protected outdoors. This enclosure is very simple, it only contains three 3D-printed models that are easy to print, no supports are needed in any of the pieces.
