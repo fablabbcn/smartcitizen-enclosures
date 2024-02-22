@@ -1,5 +1,7 @@
 # SCK 2.2 3D printed
 
+![](SCKit_22_01.png)
+
 This enclosure is to be used with the SCK 2.2. It's based on the [Frog Box design](https://www.thingiverse.com/thing:4582978), with additional modifications, remade from scratch in [Blender]([url](https://www.blender.org/)).
 
 To use it, you need to print:
