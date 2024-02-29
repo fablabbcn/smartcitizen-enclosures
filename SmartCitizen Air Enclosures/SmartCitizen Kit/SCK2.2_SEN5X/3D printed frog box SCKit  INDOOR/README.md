@@ -1,15 +1,15 @@
 # SCK 2.2 3D printed
 
-![](SCKit_22_01.png)
+![](assets/SCKit_22_01.png)
 
 This enclosure is to be used with the SCK 2.2. It's based on the [Frog Box design](https://www.thingiverse.com/thing:4582978), with additional modifications, remade from scratch in [Blender]([url](https://www.blender.org/)).
 
 To use it, you need to print:
 
-- 1x [cover](cover.stl)
-- 1x [base](base.stl)
-- 1x [clip](clip.stl)
-- 2x [latches](latch_hinge.stl)
+- 1x [cover](components/cover.stl)
+- 1x [base](components/base.stl)
+- 1x [clip](components/clip.stl)
+- 2x [latches](components/latch_hinge.stl)
 
 ## Printing 
 
@@ -22,7 +22,7 @@ We have tested this on a Prusa MK3 3D printer, using PLA and the following setti
 
 See the slicer capture below:
 
-![](slicer_pos.png)
+![](assets/slicer_pos.png)
 
 ## Additional components
 
@@ -30,4 +30,4 @@ See the slicer capture below:
 - 4x M3x30mm INOX screws
 - 2x M3x10mm screws
 - 1x M3x6mm screw
-- One external [SC reset button ](https://github.com/fablabbcn/smartcitizen-enclosures/tree/master/SmartCitizen%20Power%20Options/Reset%20button)
+- One external [SC reset button](https://github.com/fablabbcn/smartcitizen-enclosures/tree/master/SmartCitizen%20Power%20Options/Reset%20button)
