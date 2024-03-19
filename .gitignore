@@ -11,3 +11,5 @@ fp-info-cache
 *.zip
 *.lib
 *.dxf~
+
+production/
