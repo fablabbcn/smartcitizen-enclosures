@@ -5,6 +5,8 @@
 *.sch-bak
 fp-info-cache
 *.kicad_pcb-bak
+*.kicad_prl
+_autosave-panel.kicad_pcb
 *.gbr
 *.cmp
 *.drl
