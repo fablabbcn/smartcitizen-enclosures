@@ -58,7 +58,7 @@ SmartCitizen Air Enclosures/SmartCitizen Kit/SCK2.1_PMS5003/3D Printed Modular V
 |		|SCK2.1 + PMS50003			|OUTDOOR				|-			|3D Printing	|[Files](SmartCitizen%20Kit/SCK2.1_PMS5003/3D%20Printed%20Modular%20Viadukaduk)													|
 |		|SCK2.1 + PMS50003			|OUTDOOR				|-			|3D Printing	|[Files](SmartCitizen%20Kit/SCK2.1_PMS5003/3D%20Printed%20Prototype)															|
 |   	|SCK2.1 + PMS5003 + GPS 	|OUTDOOR - Bike mounted |- 			|3D Printing 	|[Link](https://www.printables.com/es/model/219574-smart-citizen-kit-21-case-supports-and-bicycle-mou)  						|
-|     |SCK2.1 + PMS5003     | OUTDOOR     |         | 3D Printing |[Files](/SmartCitizen Air Enclosures/SCK2.1/SCK2.1 with PM Sensor/SCK2.1_PMS5003/SCK_3Dprint_Assembly_GER_EN_USTTG_IIGS_2023) |
+|     |SCK2.1 + PMS5003     | OUTDOOR     |         | 3D Printing |[Files](/SmartCitizen%20Air%20Enclosures/SCK2.1/SCK2.1%20with%20PM%20Sensor/SCK2.1_PMS5003/SCK_3Dprint_Assembly_GER_EN_USTTG_IIGS_2023) |
 
 ### Auxiliaries
 
