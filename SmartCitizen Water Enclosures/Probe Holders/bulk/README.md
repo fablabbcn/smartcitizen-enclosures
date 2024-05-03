@@ -1,1 +1,0 @@
-![bulk_holder](bulk_holder.png)
