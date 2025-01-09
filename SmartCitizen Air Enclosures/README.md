@@ -51,7 +51,7 @@ Comments:
 If you have more complex setups (for instance a [PM Board](https://docs.smartcitizen.me/Components/boards/PM%20Board/) or some [I2C Sensors](https://docs.smartcitizen.me/Components/Auxiliary%20Connector/), check how it's done in the [larger version of the SCK 2.1 enclosure](SCK2.1_PMS5003/3D%20Printed%20square)):
 
 ### Community contributed enclosures
-SmartCitizen Air Enclosures/SmartCitizen Kit/SCK2.1_PMS5003/3D Printed Modular Viadukaduk
+
 |ID		|Sensors					|Exposure				|Extras		|Process		|Files   																														|
 |:-:	|:-:						|:-:					|:-:		|:-:			|:-:   																															|
 |	[Prius1954](https://github.com/Prius1954) |SCK2.1 + PMS50003			|-						|-			|3D Printing	|[Files](SmartCitizen%20Kit/SCK2.1_PMS5003/3D%20Printed%20SCK2.1%20IaaC%20Style)												|
