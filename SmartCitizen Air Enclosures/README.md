@@ -19,9 +19,9 @@ The table below will guide you through the selection process of your enclosure:
 
 |ID	|Sensors										|Exposure			|Extras		|Process		|Files   																						|Status							|
 |:-:|:-:											|:-:				|:-:		|:-:			|:-:   																							|:-:							|
-|ENCL_A_000	|SCK2.1 + PMS50003						|INDOOR				|			|3D Printing	|[Files](SmartCitizen%20Kit/SCK2.1_PMS5003/3D%20Printed%20Prototype)							|Boilerplate `(A)`				|
-|ENCL_A_001	|SCK2.1 + PMS50003						|OUTDOOR			|AUX001		|CNC Milling	|[Files](SmartCitizen%20Kit/SCK2.1_PMS5003/HDPE%20circle)										|Production						|
-|ENCL_A_002	|SCK2.1 + PMS50003						|OUTDOOR`*`			|AUX002		|3D Printing	|[Files](SmartCitizen%20Kit/SCK2.1_PMS5003/3D%20Printed%20square)								|Production						|
+|ENCL_A_000	|SCK2.1 + PMS50003						|INDOOR				|			|3D Printing	|[Files](SCK2.1/SCK2.1_PMS5003/3D%20Printed%20Prototype)							|Boilerplate `(A)`				|
+|ENCL_A_001	|SCK2.1 + PMS50003						|OUTDOOR			|AUX001		|CNC Milling	|[Files](SCK2.1/SCK2.1_PMS5003/HDPE%20circle)										|Production						|
+|ENCL_A_002	|SCK2.1 + PMS50003						|OUTDOOR`*`			|AUX002		|3D Printing	|[Files](SCK2.1/SCK2.1_PMS5003/3D%20Printed%20square)								|Production						|
 |ENCL_A_003	|SCK2.1 + PMS50003 + SCD30				|OUTDOOR`*` `(B)`	|AUX003		|3D Printing	|[Files](SmartCitizen%20Station/Mini%20Station/SCK2.1_PMS5003_CO2/3D%20Printed)					|Production						|
 |ENCL_A_004	|SCK2.1 + PMS50003 + 2ECA`**` 			|OUTDOOR`*` `(B)`	|AUX003		|3D Printing	|[Files](SmartCitizen%20Station/Mini%20Station/SCK2.1_PMS5003_2EC/3D%20Printed)					|Production						|
 |ENCL_A_005	|SCK2.1 + PMS50003 + 2ECA`**` + SCD30	|OUTDOOR`*` `(B)`	|AUX003		|3D Printing	|[Files](SmartCitizen%20Station/Mini%20Station/SCK2.1_PMS5003_2EC_CO2/3D%20Printed)				|Production						|
