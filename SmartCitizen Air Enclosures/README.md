@@ -39,7 +39,7 @@ The table below will guide you through the selection process of your enclosure:
 
 |ID	|Sensors										|Exposure			|Extras		|Process		|Files   																						|Status							|
 |:-:|:-:											|:-:				|:-:		|:-:			|:-:   																							|:-:							|
-|ENCL_A_030	|SCK2.3 +  SEN50		|INDOOR				|			|3D Printing	|[Files](SCK2.3/SCK2.3_SEN5X/3D%printed%frog%box/components)				|	Prototype			|
+|ENCL_A_030	|SCK2.3 +  SEN50		|INDOOR				|			|3D Printing	|[Files](SCK2.3/SCK2.3_SEN5X/3D_printed_frog_box/components)				|	Prototype			|
 
 
 Comments:
