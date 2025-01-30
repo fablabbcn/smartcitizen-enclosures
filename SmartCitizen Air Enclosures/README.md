@@ -37,6 +37,13 @@ The table below will guide you through the selection process of your enclosure:
 |ENCL_A_015	|SCK2.1 + PMS50003 + 3ECA`**` + SCD30	|OUTDOOR`*` `(B)`	|AUX003		|3D Printing	|[Files - not yet](SmartCitizen%20Station/Mini%20Station/SCK2.1_PMS5003_3EC_CO2/3D%20Printed)	|Prototype	`(C)`				|
 |ENCL_A_016	|SCK2.1 + PMS50003 + 3ECA`**` + SCD30	|OUTDOOR`*` `(B)`	|AUX003		|CNC Milling	|[Files - not yet](SmartCitizen%20Station/Mini%20Station/SCK2.1_PMS5003_3EC_CO2/HDPE)			|Prototype	`(C)`				|
 
+|ID	|Sensors										|Exposure			|Extras		|Process		|Files   																						|Status							|
+|:-:|:-:											|:-:				|:-:		|:-:			|:-:   																							|:-:							|
+|ENCL_A_030	|SCK2.3 +  SEN50		|INDOOR				|			|3D Printing	|[Files](SCK2.3/SCK2.3_SEN5X
+
+/3D%printed%frog%box/components)				|	Prototype			|
+
+
 Comments:
 
 - `*` 	_Outdoor resistant only if used with auxiliary umbrella (read below)_
