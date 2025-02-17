@@ -1,0 +1,154 @@
+site_name: Smart Citizen Enclosures
+site_description: Enclosures for smartcitizenkit
+site_author: Fab Lab Barcelona
+site_url: https://enclosures.smartcitizen.me/
+repo_name: smartcitizen-enclosures
+repo_url: https://github.com/fablabbcn/smartcitizen-enclosures
+
+docs_dir: "enclosures"
+
+
+theme:
+  language: 'en'
+  name: 'material'
+  features:
+    - instant
+    - navigation.indexes
+    - navigation.instant
+    - navigation.path
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+    - navigation.tracking
+    - search.highlight
+    - search.share
+    - search.suggest
+    - content.tooltips
+    - content.action.edit
+    - content.action.view
+    - toc.follow
+    - navigation.footer
+  custom_dir: 'custom_theme'
+  palette:
+    # Palette toggle for light mode
+    - scheme: default
+      primary: black
+      accent: amber
+  logo: 'assets/images/logo.svg'
+  favicon: 'assets/images/favicon.ico'
+  icon:
+    repo: fontawesome/brands/git-alt
+    annotation: material/star-four-points-circle
+
+extra:
+  social:
+    # - icon: fontawesome/brands/twitter
+    #   link: 'https://twitter.com/smartcitizenkit'
+    - icon: fontawesome/brands/instagram
+      link: 'https://www.instagram.com/smartcitizenkit/'
+    - icon: fontawesome/brands/github
+      link: 'https://www.github.com/fablabbcn/smartcitizen-kit-2x'
+  footer_logo: '/assets/images/eu-flag.png'
+  license:
+    name: 'GNU Free Documentation License'
+    link: 'https://www.gnu.org/licenses/fdl-1.3.html'
+  fullscreen_button: false
+  urls:
+    buy:
+      name: seeedstudio.com
+      link: https://www.seeedstudio.com/Smart-Citizen2-3-p-6327.html
+    installation:
+      name: start.smartcitizen.me
+      link: https://start.smartcitizen.me/
+    main:
+      name: smartcitizen.me
+      link: https://smartcitizen.me/
+    platform:
+      name: smartcitizen.me/kits
+      link: https://smartcitizen.me/kits
+    api:
+      name: api.smartcitizen.me
+      link: https://api.smartcitizen.me
+    developer:
+      name: developer.smartcitizen.me
+      link: https://developer.smartcitizen.me
+    forum:
+      name: forum.smartcitizen.me
+      link: https://forum.smartcitizen.me
+    support:
+      name: support@smartcitizen.me
+      link: mailto:support@smartcitizen.me
+    info:
+      name: info@smartcitizen.me
+      link: mailto:info@smartcitizen.me
+    status:
+      name: status.smartcitizen.me
+      link: https://status.smartcitizen.me
+    firmware:
+      name: fablabbcn/smartcitizen-kit-2x
+      link: https://github.com/fablabbcn/smartcitizen-kit-2x
+    ghfablab:
+      name: github.com/fablabbcn/
+      link: https://github.com/search?q=org%3Afablabbcn+smartcitizen&type=repositories
+    ghhardware:
+      name: fablabbcn/smartcitizen-kit-2x/hardware
+      link: https://github.com/fablabbcn/smartcitizen-kit-2x/tree/master/hardware
+    enclosures:
+      name: enclosures.smartcitizen.me
+      link: https://enclosures.smartcitizen.me
+    fablabbcn:
+      name: Fab Lab Barcelona
+      link: https://fablabbcn.org
+    iaac:
+      name: Institute For Advanced Architecture Of Catalonia
+      link: https://iaac.net
+
+plugins:
+  - macros
+  - search
+  - open-in-new-tab
+  - tags
+  # - redirects:
+  #     redirect_maps:
+  #       'Resources/Tutorials/Configure Orange Data Analysis.md': 'Guides/data/Configure Orange Data Analysis.md'
+  #       'Resources/Tutorials/Orange Data Widgets.md': 'Guides/data/Orange Data Widgets.md'
+  #       'Resources/Tutorials/Simple Orange Workflow.md': 'Guides/data/Simple Orange Workflow.md'
+  #       'Resources/Tutorials/Orange and geolocated data.md': 'Guides/data/Orange and geolocated data.md'
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - admonition
+  - codehilite
+  - footnotes
+  - toc:
+      permalink: true
+      toc_depth: 3
+  - pymdownx.arithmatex
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.inlinehilite
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+  - pymdownx.tabbed:
+      alternate_style: true
+
+
+extra_css:
+  - assets/extra.css
+
+extra_javascript:
+  - 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML'
+  - 'https://buttons.github.io/buttons.js'
+  - 'assets/extra.js'

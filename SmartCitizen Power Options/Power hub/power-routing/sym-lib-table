@@ -1,3 +1,0 @@
-(sym_lib_table
-  (lib (name power-routing-rescue)(type Legacy)(uri ${KIPRJMOD}/power-routing-rescue.lib)(options "")(descr ""))
-)

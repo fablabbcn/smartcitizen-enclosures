@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name PowerSupplyFP)(type KiCad)(uri ${KIPRJMOD}/PowerSupplyFP.pretty)(options "")(descr ""))
+  (lib (name LOGO)(type KiCad)(uri ${KIPRJMOD}/LOGO.pretty)(options "")(descr ""))
+)

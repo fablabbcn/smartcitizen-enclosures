@@ -1,1 +1,0 @@
-The ASB is held by a bridge behind the SCK, use the [bridge](components/bridge-asb.stl) for this purpose.
