@@ -1,7 +1,7 @@
 .DS_Store
 .~lock.*.csv#
 38102200_PK-102-211.stp
-
+custom_theme/aux/*.html
 *.sch-bak
 fp-info-cache
 *.kicad_pcb-bak
@@ -13,6 +13,8 @@ _autosave-panel.kicad_pcb
 *.zip
 *.lib
 *.dxf~
-
+*.pyc
+*.gif
+site
 production/
 venv

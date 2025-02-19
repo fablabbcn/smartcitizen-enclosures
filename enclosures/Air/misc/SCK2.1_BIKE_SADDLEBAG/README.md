@@ -16,11 +16,11 @@ This folder contains the parts needed to mount the SCK 2.1 with a PMS5003 and a 
 
 The sensors are placed inside a commercial saddle bag, held with a ppe folding:
 
-![](assets/ppe.jpg)
+![](/assets/images/bike-saddle/ppe.jpg)
 
 Below more information about how to assemble:
 
-![](assets/cut-view.png)
+![](/assets/images/bike-saddle/cut-view.png)
 
 ## More information
 

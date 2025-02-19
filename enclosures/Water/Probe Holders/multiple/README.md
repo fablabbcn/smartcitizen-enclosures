@@ -11,7 +11,7 @@ This probe holder is designed to protect underwater sensor probes, holding up to
 
 You can see an image of the unit below:
 
-![](multiple_probe_transparent.png)
+![](/assets/images/water/multiple_probe_transparent.png)
 
 And you can find more images in the field in our [flickr](https://www.flickr.com/photos/smartcitizen/albums/72157718962169794)
 
@@ -19,13 +19,13 @@ And you can find more images in the field in our [flickr](https://www.flickr.com
 
 The unit is designed with two parts of OD110mm PVC pipe. Each part is approximatively 35cm, although the length is not required to be exact. The outer diameter (OD) it's necessary to be 110mm, with an ID of 104mm.
 
-The components that actually hold the probes are 3D printed in ASA. All components are found in the [components](components/) folder. The components are in the root folder of the mentioned folder. A more detailed assembly can be found in the [technical drawing](assets/water_drawing.pdf):
+The components that actually hold the probes are 3D printed in ASA. All components are found in the [components](components/) folder. The components are in the root folder of the mentioned folder. A more detailed assembly can be found in the [technical drawing](/assets/images/water/water_drawing.pdf):
 
-![](assets/technical_view.png)
+![](/assets/images/water/technical_view.png)
 
 The design is made to easily be dissassembled for cleaning the probes. Use one of the screws to hold it in place, or open it when needed:
 
-![](assets/opening_probe_holder.png)
+![](/assets/images/water/opening_probe_holder.png)
 
 ### Cable protection
 
@@ -35,9 +35,9 @@ In addition, to protect the SMA and BNC cable connections, coax-seal is used. Si
 
 The probe holder can be submerged directly or hung with additional support. The signal cables should not hold the probes, and additional nylon cord can be used to hang the unit for simple submersions. For that, the [top](components/top-clip.stl) has a hole in the center to pass a nylon cord.
 
-If you want to hang the unit from a wall, you can use a stainless steel pipe. We have used 3m stainless steel (marine grade) to hang the unit from a wall, using additional components that can be found in ship stores. An additional piece was designed in sheet metal (see the [drawing here](assets/water-station-pipe-bend-support%20v1.pdf)) to attach the pipe to a wall. The [hook](components/hook/) can be used to hang the unit easily, and have easy access to the probes for cleaning when needed.
+If you want to hang the unit from a wall, you can use a stainless steel pipe. We have used 3m stainless steel (marine grade) to hang the unit from a wall, using additional components that can be found in ship stores. An additional piece was designed in sheet metal (see the [drawing here](/assets/images/water/water-station-pipe-bend-support%20v1.pdf)) to attach the pipe to a wall. The [hook](components/hook/) can be used to hang the unit easily, and have easy access to the probes for cleaning when needed.
 
-To attach the probe holder to the pipe, you can use [stainless steel ties](assets/steel_tie.png)
+To attach the probe holder to the pipe, you can use [stainless steel ties](/assets/images/water/steel_tie.png)
 
 ### BOM
 
@@ -67,7 +67,7 @@ If you want to hang the unit from a wall:
 | Component | Quantity | File / Link |
 | :-        | :-:      | :-          |
 | AISI 316 of your desired length | 1 | n/a |
-| AISI 316 sheet metal | 2 | [file](assets/water-station-pipe-bend-support%20v1.pdf) |
+| AISI 316 sheet metal | 2 | [file](/assets/images/water/water-station-pipe-bend-support%20v1.pdf) |
 | 3D Printed component #5 | 1 | [file](components/half-moon.stl) |
 | 3D Printed component #6 | 1 | One of each file in this [folder](components/hook/) |
 | AISI 316 Threaded Ties | 2 | [link]() |

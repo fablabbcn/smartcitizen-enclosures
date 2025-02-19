@@ -7,7 +7,7 @@ version: SCK2.2
 field:
   - air
 grade: intermediate
-feature_img: assets/SCKit_22.png
+feature_img: /assets/images/2.2/SCKit_22.png
 excerpt: Measure Indoor or Outdoor Air Quality with this unit. Beyond the metrics from the kit, it can measure CO2 with a very reliable CO2 sensor!
 ---
 
@@ -50,4 +50,4 @@ See the slicer capture below:
 - One external [SC reset button](https://github.com/fablabbcn/smartcitizen-enclosures/tree/master/SmartCitizen%20Power%20Options/Reset%20button)
 - Rubber seal 2.5mm
 
-![](assets/SCKit_22-description.png)
+![](/assets/images/2.2/SCKit_22-description.png)

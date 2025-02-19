@@ -17,7 +17,7 @@ excerpt: Measure Indoor or Outdoor Air Quality with this unit. Beyond the metric
 
 {{ excerpt }}
 
-{{ insert_cards(type = "unit", filter = "page_type", value = ['enclosure'])}}
+{{ insert_cards(card_type = "unit", filter = "page_type", value = ['enclosure'])}}
 
 - [SCKit](SCK2.1_PMS5003/3D Printed frog box/)
 

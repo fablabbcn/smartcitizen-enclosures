@@ -7,7 +7,7 @@ version: SCK2.2
 field:
   - air
 grade: intermediate
-feature_img: assets/SCKit_22_CO2+HCHO.png
+feature_img: /assets/images/2.2/SCKit_22_CO2+HCHO.png
 excerpt: Measure Indoor or Outdoor Air Quality with this unit. Beyond the metrics from the kit, it can measure CO2 with a very reliable CO2 sensor!
 ---
 # {{ name }}
@@ -39,7 +39,7 @@ We have tested this on a Prusa MK3 3D printer, using PLA and the following setti
 
 See the slicer capture below:
 
-![**SLICER**](assets/slicer_SCKit_CO2-HCHO.jpg)
+![**SLICER**](/assets/images/2.2/slicer_SCKit_CO2-HCHO.jpg)
 
 ## Additional components
 

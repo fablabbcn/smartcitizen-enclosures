@@ -504,6 +504,7 @@ a.card-title:hover{
     display: grid;
     align-content: center;
     justify-content: center;
+    aspect-ratio: 4/3;
 }
 
 .sensor-banner .sensor-image-block img.sensor-image {
@@ -511,6 +512,7 @@ a.card-title:hover{
     object-position: 50% 50%;
     width: 100%;
     /* max-width: 400px; */
+    aspect-ratio: 4/3;
 }
 
 .sensor-tags-block-container {
@@ -616,7 +618,7 @@ b.sensor-tag-content{
         grid-template-columns: 50% 50%;
     }
     .sensor-banner .sensor-image-block img.sensor-image {
-        height: 300px;
+        aspect-ratio: 4/3;
     }
 }
 
@@ -627,7 +629,7 @@ b.sensor-tag-content{
     }
 
     .sensor-banner .sensor-image-block img.sensor-image {
-        height: 300px;
+        aspect-ratio: 4/3;
     }
 }
 

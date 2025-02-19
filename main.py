@@ -10,9 +10,9 @@ import shutil
 from requests import get
 
 DEBUG = False
-def std_out(msg, debug=DEBUG):
-    if debug:
-        std_out (msg)
+def std_out(msg):
+    if DEBUG:
+        print (msg)
 
 def get_frontmatter(content):
     if '---\n' not in content:
@@ -51,10 +51,10 @@ def on_pre_page_macros(env):
     base_folder = env.conf.docs_dir
     source_folder = os.path.join(base_folder, env.page.url)
 
-    print('*****************************')
-    print ('Creating cards under:')
-    print (source_folder)
-    print('*****************************')
+    std_out('*****************************')
+    std_out ('Creating cards under:')
+    std_out (source_folder)
+    std_out('*****************************')
 
     ignores = get_ignores(source_folder=base_folder)
 
@@ -78,8 +78,9 @@ def on_pre_page_macros(env):
                 continue
 
             file_path = os.path.join(root, file)
+            file_name = file_path[file_path.find('/enclosures/'):].replace('/','_').strip('_enclosures_').replace(' ', '_').lower()
 
-            print (f'File: {file_path}')
+            std_out (f'File: {file_path}')
 
             if os.path.exists(file_path):
                 with open(file_path, 'r') as _file:
@@ -98,7 +99,7 @@ def on_pre_page_macros(env):
                         std_out ('\tERROR: no name in frontmatter!')
                         continue
 
-                    frontmatter['target_url'] = '/'+file_path.replace(f'{env.conf.docs_dir}/','').replace('.md','/').replace('index/', '')
+                    frontmatter['target_url'] = '/'+file_path.replace(f'{env.conf.docs_dir}/','').replace('.md','/').replace('README/', '')
 
                     if 'field' in frontmatter:
                         std_out (frontmatter['field'])
@@ -144,7 +145,7 @@ def on_pre_page_macros(env):
                     std_out (f'\t{frontmatter}')
                     result = template.render(frontmatter)
 
-                    html_path = os.path.join(f"{custom_dir}/aux", file.replace('.md', '.html')).replace("index", frontmatter['name'].lower().replace(" ","_"))
+                    html_path = os.path.join(f"{custom_dir}/aux", file_name.replace('.md', '.html')).replace("index", frontmatter['name'].lower().replace(" ","_"))
                     std_out (f'\tCreating card {html_path}')
 
                     with open(html_path, 'w', encoding='utf-8') as _file:
@@ -386,14 +387,13 @@ def define_env(env):
         return markdown
 
     @env.macro
-    # TODO - Cleanup
-    def insert_cards(type = "", filter = None, value = list()):
-        print ('********')
-        print ('Insert cards')
-        print (f'Type: {type}')
-        print (f'Filter: {filter}')
-        print (f'Value: {value}')
-        print ('********')
+    def insert_cards(card_type = "", filter = None, value = list()):
+        std_out ('********')
+        std_out ('Insert cards')
+        std_out (f'Type: {card_type}')
+        std_out (f'Filter: {filter}')
+        std_out (f'Value: {value}')
+        std_out ('********')
         custom_dir = os.path.basename(os.path.normpath(env.conf.theme.custom_dir))
         environment = Environment(loader=FileSystemLoader(f"{custom_dir}/templates/"), autoescape=True)
         template = environment.get_template("grid.html")
@@ -401,18 +401,20 @@ def define_env(env):
         cards_to_get = []
         base_folder = env.conf.docs_dir
         source_folder = os.path.join(env.conf.docs_dir, env.page.url)
-        print ('Source folder:', source_folder)
+        std_out(f'Custom dir {custom_dir}')
+        std_out (['Source folder:', source_folder])
 
         ignores = get_ignores(source_folder=base_folder)
+        std_out (ignores)
 
         for (root,_,files) in os.walk(source_folder):
 
             for file in files:
 
                 file_path = os.path.join(root, file)
-                print ('File path')
-                print (file_path)
-                print (ignores)
+                std_out ('File path')
+                std_out (file_path)
+                # std_out (ignores)
                 if file in ignores:
                     # std_out ('\tIgnoring. Direct match')
                     continue
@@ -425,8 +427,8 @@ def define_env(env):
                         break
 
                 if ignore_file:
-                    # std_out ('\tIgnoring. Regex match')
-                    # std_out ('---')
+                    std_out ('\tIgnoring. Regex match')
+                    std_out ('---')
                     continue
                 if os.path.exists(file_path):
                     with open(file_path, 'r') as _file:
@@ -434,7 +436,8 @@ def define_env(env):
 
                     frontmatter = get_frontmatter(content)
                     if frontmatter is not None:
-                        print (file)
+                        std_out('Frontmatter file')
+                        std_out (file)
 
                         if 'name' not in frontmatter:
                             std_out (f'ERROR: {file} has no \'name\' in frontmatter!')
@@ -450,17 +453,22 @@ def define_env(env):
 
                         if filter is not None:
                             if filter in frontmatter:
-                                item_values = frontmatter[filter]
+                                if type(frontmatter[filter]) != list:
+                                    item_values = [frontmatter[filter]]
+                                else:
+                                    item_values = frontmatter[filter]
                             else:
                                 std_out (f'ERROR: {file} does not have {filter} in frontmatter')
                                 continue
-                            std_out (value, item_values)
+                            std_out ([value, item_values])
                             if any([item_value in value for item_value in item_values]):
                                 std_out ('adding to get')
-                                cards_to_get.append(file.replace('.md', '.html'))
+                                file_name = file_path[file_path.find('/enclosures/'):].replace('/','_').strip('_enclosures_').replace(' ', '_').lower().replace('.md', '.html')
+                                cards_to_get.append(file_name)
                             std_out ('----')
                         else:
-                            cards_to_get.append(file.replace('.md', '.html'))
+                            file_name = file_path[file_path.find('/enclosures/'):].replace('/','_').strip('_enclosures_').replace(' ', '_').lower().replace('.md', '.html')
+                            cards_to_get.append(file_name)
                     else:
                         std_out (f'ERROR: {file} has no frontmatter')
                         continue
@@ -473,14 +481,16 @@ def define_env(env):
         if cards_to_get:
             std_out ('Adding cards')
             for item in cards_to_get:
-                file_path = f"{custom_dir}/aux/{item}"
-
-                if os.path.exists(file_path):
-                    std_out (f'Adding card: {file_path}')
-                    with open(file_path, 'r', encoding='utf-8') as file:
+                item_path = f"{custom_dir}/aux/{item}"
+                std_out(item_path)
+                if os.path.exists(item_path):
+                    std_out (f'Adding card: {item_path}')
+                    with open(item_path, 'r', encoding='utf-8') as file:
                         card = file.read()
                     if card:
                         cards+=card
+                else:
+                    std_out('Error, card doenst exist')
 
         if cards:
             result = template.render(cards=cards,  wide=False)
@@ -514,62 +524,3 @@ def define_env(env):
             result = template.render(cards=cards, wide=wide_columns)
             return result
         return None
-
-    @env.macro
-    def insert_banner():
-        # TODO
-        return None
-
-    @env.macro
-    def insert_guides():
-        # TODO
-        return None
-
-
-    @env.macro
-    # Inspired by function in mkdocs-snippets-plugin
-    # TODO - Cleanup once it's final
-    def insert_references(file_path, ignore_frontmatter = True):
-
-        ok_to_go = False
-        try:
-            with open(env.project_dir + '/' + file_path, 'r') as myfile:
-                content = myfile.read()
-        except:
-            std_out (f'Error found while rendering file: {env.page.file.src_uri}')
-            std_out (f"Can't find {env.project_dir + '/' + file_path}")
-            pass
-        else:
-            ok_to_go = True
-
-        if not ok_to_go:
-            return None
-
-        extract = content.split('\n')
-        references = {}
-        std_out ('REFERENCES')
-        # std_out (extract)
-        # std_out (type(extract))
-        # std_out ('PAGE CONTENT')
-        # std_out (env.page.markdown)
-        # std_out ('-----------')
-
-        for item in extract:
-            # std_out (item)
-            if item.startswith('['):
-                # std_out ('reference key')
-                if item not in references:
-                    # std_out ('new item')
-                    if item in env.page.markdown:
-                        # std_out ('item in md!')
-                        references[item]=extract[extract.index(item)+1]
-                else:
-                    std_out ("WARNING: Duplicated item in references")
-
-        # std_out ('references')
-        # std_out (references)
-        result = '\n'.join('{}\n {}'.format(key, value) for key, value in references.items())
-        # std_out ('result')
-        # std_out (result)
-        std_out ('---')
-        return result

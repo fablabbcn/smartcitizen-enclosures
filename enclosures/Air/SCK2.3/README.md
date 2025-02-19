@@ -17,6 +17,6 @@ excerpt: Measure Indoor or Outdoor Air Quality with this unit. Beyond the metric
 
 {{ excerpt }}
 
-{{ insert_cards(type = "unit", filter = "page_type", value = ['enclosure'])}}
+{{ insert_cards(card_type = "unit", filter = "page_type", value = ['enclosure'])}}
 
 - [SCK2.3](SCK2.3_SEN5X/3D_printed_frog_box)

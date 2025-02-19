@@ -7,14 +7,14 @@ TODO
 - M3 Screw length
 - Finish BOM
 
-![](assets/blau.png)
+![](/assets/images/water/blau.png)
 
 This Enclosure is build inside a comercial polycarbonate [IP box](https://es.rs-online.com/web/p/cajas-de-uso-general/4985129) the enclosure is weatherproof, but due to the cable glands, we recomend to put this box in to a bigger one to avoid having problems with rain. This box can't be submerged.
 
 The box needs some to be modifed for use, holes are needed for power and data cables. 16mm holes have to be done, to do this holes we use a [step drill bit](https://sg.rs-online.com/web/p/specialist-drill-bits/1238509). In the images below you can see where to do this holes (3 in total).
 
-![Image of box holes1](assets/Imageofboxholes1.jpg)
-![Image of box holes2](assets/Imageofboxholes2.jpg)
+![Image of box holes1](/assets/images/water/Imageofboxholes1.jpg)
+![Image of box holes2](/assets/images/water/Imageofboxholes2.jpg)
 
 ## Components
 
@@ -24,7 +24,7 @@ There are 3D printed components and laser cut acrylic ones.
 
 The prints are done with PLA but you can use other materials like ASA, PETG or ABS, however we don't think it's necessary. Everything is printed with normal 0.4mm nozzle and 0.2mm layer height. We recomend to print with 3 perimeters to increasse strength. You can see the 3D printed base below:
 
-![](assets/slicer.png)
+![](/assets/images/water/slicer.png)
 
 #### CLIP
 

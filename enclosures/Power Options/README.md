@@ -7,7 +7,7 @@ The Smart Citizen Kit can be powered with a normal 5V 2A USB charger via micro U
 
 A simple power supply to power the SCK with a 230AC input, with 5VDC 2A output.
 
-![](assets/powersupply.jpg)
+![](https://live.staticflickr.com/65535/54334059575_9b3e021dee_o.jpg)
 
 The power supply can be one of two options:
 

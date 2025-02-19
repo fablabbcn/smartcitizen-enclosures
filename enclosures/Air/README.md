@@ -14,7 +14,7 @@ Keep in mind that no enclosure is perfect and that it will not compensate fully 
 
 The table below will guide you through the selection process of your enclosure:
 
-### Enclosures
+### SCK Versions
 
 <!--
 |ID	|Sensors										|Exposure			|Extras		|Process		|Files   																						|Status							|
@@ -55,14 +55,16 @@ Comments:
 
 If you have more complex setups (for instance a [PM Board](https://docs.smartcitizen.me/Components/boards/PM%20Board/) or some [I2C Sensors](https://docs.smartcitizen.me/Components/Auxiliary%20Connector/), check how it's done in the [larger version of the SCK 2.1 enclosure](SCK2.1_PMS5003/3D%20Printed%20square)):
 -->
-[<p style="text-align: center;">SMARTCITIZEN 2.1</p>](./SCK2.1)
-[![2.1](../assets/images/SCK2.1.jpg)](./SCK2.1)	
-[<p style="text-align: center;">SMARTCITIZEN 2.2</p>](./SCK2.2)
-[![2.2](../assets/images/SCK2.3.jpg)](./SCK2.2)	
-[<p style="text-align: center;">SMARTCITIZEN 2.3</p>](./SCK2.3)
-[![2.3](../assets/images/SCK2.3.jpg)](./SCK2.3)	
 
-{{ insert_cards(type = "unit", filter = "page_type", value = ['version_index'])}}
+=== "SCK2.3"
+    <a href="/Air/SCK2.3/"><img style="max-height: 330px; width: 100%; object-fit: cover;"src="https://live.staticflickr.com/65535/54281726404_7159ccddc1_o.jpg" alt="SCK2.3"/></a>
+=== "SCK2.2"
+    <a href="/Air/SCK2.2/"><img style="max-height: 330px; width: 100%; object-fit: cover;"src="https://live.staticflickr.com/65535/54280600377_d71bf25bb1_o.jpg" alt="SCK2.2"/></a>
+=== "SCK2.1"
+    <a href="/Air/SCK2.1/"><img style="max-height: 330px; width: 100%; object-fit: cover;"src="https://live.staticflickr.com/65535/54281726504_b685a32158_o.jpg" alt="SCK2.1"/></a>
+
+{{ insert_cards(card_type="unit", filter="page_type", value="version_index") }}
+
 
 ### Community contributed enclosures
 
