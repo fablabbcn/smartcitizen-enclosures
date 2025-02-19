@@ -9,7 +9,7 @@ hide:
 
 [![DOI](https://zenodo.org/badge/75389354.svg)](https://zenodo.org/badge/latestdoi/75389354)
 
-This is a repository we host enclosures we are developing for the Smart Citizen Kit 1.5 and 2.X family. If you are looking for outdoor cases for the _SmartCitizen Kit or Stations_, make sure to visit the [variants table](Air/) to find out what best suits your needs. If you are looking for _Water Kits or Stations_, check this [table](Water/)
+This is a repository we host enclosures we are developing for the Smart Citizen Kit 1.5 and 2.X family. If you are looking for outdoor cases for the _SmartCitizen Kit or Stations_, make sure to visit the [variants table](/Air/) to find out what best suits your needs. If you are looking for _Water Kits or Stations_, check this [table](/Water/)
 
 !!! info "Always evolving"
 	Please, beware that this is always a _work in progress archive_. Sometimes documentation might be missing. Open an issue if you need!
