@@ -7,7 +7,7 @@ page_type:
 field:
   - air
 grade: intermediate
-feature_img: SCK2.1_PMS5003/3D Printed frog box/assets/SCKit_21.png
+feature_img: /assets/images/2.1/SCKit_21.png
 excerpt: Measure Indoor or Outdoor Air Quality with this unit. Beyond the metrics from the kit, it can measure CO2 with a very reliable CO2 sensor!
 ---
 

@@ -39,7 +39,7 @@ We have tested this on a Prusa MK3 3D printer, using PLA and the following setti
 
 See the slicer capture below:
 
-![**SLICER**](assets/slicer_pos.png)
+![**SLICER**](/assets/images/2.2/slicer_pos.png)
 
 ## Additional components
 

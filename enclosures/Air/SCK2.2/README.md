@@ -7,7 +7,7 @@ page_type:
 field:
   - air
 grade: intermediate
-feature_img: SCK2.2_SEN5X/3D printed frog box/assets/SCKit_22.png
+feature_img: /assets/images/2.2/SCKit_22.png
 excerpt: Measure Indoor or Outdoor Air Quality with this unit. Beyond the metrics from the kit, it can measure CO2 with a very reliable CO2 sensor!
 ---
 
