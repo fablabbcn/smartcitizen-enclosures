@@ -68,7 +68,7 @@ If you want to hang the unit from a wall:
 | :-        | :-:      | :-          |
 | AISI 316 of your desired length | 1 | n/a |
 | AISI 316 sheet metal | 2 | [file](/assets/images/water/water-station-pipe-bend-support%20v1.pdf) |
-| 3D Printed component #5 | 1 | [file](components/half-moon.stl) |
+| 3D Printed component #5 | 1 | [file](components/metalic-zipTie-enforcer.stl) |
 | 3D Printed component #6 | 1 | One of each file in this [folder](components/hook/) |
 | AISI 316 Threaded Ties | 2 | [link]() |
 | AISI 316 M3 Screw and nut | 2 | [link]() |
