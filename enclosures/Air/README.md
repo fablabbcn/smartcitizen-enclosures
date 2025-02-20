@@ -53,7 +53,7 @@ Comments:
 - `(B)`: All these designs share the same cover available in two formats: indoor, or outdoor version. The cover is available in [the CO2 version](SmartCitizen%20Station/Mini%Station/SCK2.1_PMS5003_CO2/3D%20Printed/components) as `cover.stl` or `cover-acrylic.stl` for a more user friendly one for indoor use. The `cover-acrylic` version uses a 3mm laser cut acrylic available in the same folder, in `acrylic.dxf`
 - `(C)`: Currently under development
 
-If you have more complex setups (for instance a [PM Board](https://docs.smartcitizen.me/Components/boards/PM%20Board/) or some [I2C Sensors](https://docs.smartcitizen.me/Components/Auxiliary%20Connector/), check how it's done in the [larger version of the SCK 2.1 enclosure](SCK2.1_PMS5003/3D%20Printed%20square)):
+If you have more complex setups (for instance a [PM Board](https://docs.smartcitizen.me/hardware/boards/pm-board/) or some [I2C Sensors](https://docs.smartcitizen.me/hardware/boards/data-board/#auxiliary-connector), check how it's done in the [larger version of the SCK 2.1 enclosure](SCK2.1_PMS5003/3D%20Printed%20square)):
 -->
 
 === "SCK2.3"
@@ -70,17 +70,17 @@ If you have more complex setups (for instance a [PM Board](https://docs.smartcit
 
 |ID		|Sensors					|Exposure				|Extras		|Process		|Files   																														|
 |:-:	|:-:						|:-:					|:-:		|:-:			|:-:   																															|
-|	[Prius1954](https://github.com/Prius1954) |SCK2.1 + PMS50003			|-						|-			|3D Printing	|[Files](SmartCitizen%20Kit/SCK2.1_PMS5003/3D%20Printed%20SCK2.1%20IaaC%20Style)												|
-|	[Viadukaduk](https://lawaai.viadukaduk.be/)	|SCK2.1 + PMS50003			|OUTDOOR				|-			|3D Printing	|[Files](SmartCitizen%20Kit/SCK2.1_PMS5003/3D%20Printed%20Modular%20Viadukaduk)													|
-|		| SCK2.1 + PMS50003			|OUTDOOR				|-			|3D Printing	|[Files](SmartCitizen%20Kit/SCK2.1_PMS5003/3D%20Printed%20Prototype)															|
+|	[Prius1954](https://github.com/Prius1954) |SCK2.1 + PMS50003			|-						|-			|3D Printing	|[Files](/Air/SCK2.1/SCK2.1_PMS5003/3D Printed SCK2.1 IaaC Style)												|
+|	[Viadukaduk](https://lawaai.viadukaduk.be/)	|SCK2.1 + PMS50003			|OUTDOOR				|-			|3D Printing	|[Files](/Air/SCK2.1/SCK2.1_PMS5003/3D Printed Modular Viadukaduk/)													|
+|		| SCK2.1 + PMS50003			|OUTDOOR				|-			|3D Printing	|[Files](/Air/SCK2.1/SCK2.1_PMS5003/3D Printed Prototype/)															|
 | [serialc](https://www.printables.com/es/@serialc_251995) |SCK2.1 + PMS5003 + GPS 	|OUTDOOR - Bike mounted |- 			|3D Printing 	|[Link](https://www.printables.com/es/model/219574-smart-citizen-kit-21-case-supports-and-bicycle-mou)  						|
-| [COKLIMAx](https://www.iigs.uni-stuttgart.de/forschung/coklimax/) |SCK2.1 + PMS5003     | OUTDOOR     |         | 3D Printing |[Files](/SmartCitizen%20Air%20Enclosures/SCK2.1/SCK2.1%20with%20PM%20Sensor/SCK2.1_PMS5003/SCK_3Dprint_Assembly_GER_EN_USTTG_IIGS_2023) |
+| [COKLIMAx](https://www.iigs.uni-stuttgart.de/forschung/coklimax/) |SCK2.1 + PMS5003     | OUTDOOR     |         | 3D Printing |[Files](/Air/SCK2.1/SCK2.1_PMS5003/SCK_3Dprint_Assembly_GER_EN_USTTG_IIGS_2023/) |
 
 ### Auxiliaries
 
 |ID 	|Process					|Files 																													|Description												|
 |:-:	|:-:						|:-:																													|:-:														|
-|AUX001	|Sheet metal 				|[Files](SmartCitizen%20Kit/SCK2.1_PMS5003/HDPE%20circle/drawing_metal_sheet.pdf)										| Inox flange with mounting points for Power Supply			|
-|AUX002	|Dibond bending 			|[Files](SmartCitizen%20Kit/SCK2.1_PMS5003/3D%20Printed%20square/UMBRELLA)	 											| Small umbrella cover 										|
-|AUX003	|Dibond bending 			|[Files](SmartCitizen%20Station/Mini%20Station/UMBRELLA)																| Medium umbrella cover										|
-|AUX004	|Dibond bending 			|[Files](SmartCitizen%20Station/Big%20Station/UMBRELLA) 																| Large umbrella cover										|
+|AUX001	|Sheet metal 				|[Files](/Air/SCK2.1/SCK2.1_PMS5003/CNC HDPE circle/drawing_metal_sheet.pdf)										| Inox flange with mounting points for Power Supply			|
+|AUX002	|Dibond bending 			|[Files](/Air/SCK2.1/SCK2.1_PMS5003/3D Printed square/)	 											| Small umbrella cover 										|
+|AUX003	|Dibond bending 			|[Files](/Air/shared/umbrella/)																| Medium umbrella cover										|
+|AUX004	|Dibond bending 			|[Files](/Air/shared/umbrella/) 																| Large umbrella cover										|
