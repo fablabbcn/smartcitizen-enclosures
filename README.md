@@ -10,7 +10,7 @@ This is a repository we host enclosures we are developing for the Smart Citizen 
 
 ### Warning
 
-Please, beware that this is always a _work in progress archive_. Sometimes documentation might be missing. Open an issue if you need!
+Please, beware that this is always a _work in progress archive_. Sometimes documentation might be missing. Open an [issue](https://github.com/fablabbcn/smartcitizen-enclosures/issues) if you need!
 
 ### Contribute
 
