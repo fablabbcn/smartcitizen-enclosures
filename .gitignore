@@ -18,3 +18,4 @@ _autosave-panel.kicad_pcb
 site
 production/
 venv
+__pycache__
