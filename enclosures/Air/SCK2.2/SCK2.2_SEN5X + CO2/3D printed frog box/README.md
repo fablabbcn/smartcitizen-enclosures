@@ -24,8 +24,8 @@ To use it, you need to print:
 
 - 1x cover of your choice: [indoor version](components/cover_indoor.stl), [freestyle version](components/cover_multipurpose.stl). The [outdoor version](components/cover_outdoor.stl) is currently a WIP only, and it's meant to be used with a protective umbrella.
 - 1x [base](components/base.stl)
-- 1x [clip](components/clip.stl)
-- 2x [latches](components/latch_hinge.stl)
+- 1x [clip](components/clip-sck2.X-sen5X.stl)
+- 2x [latches](components/latch-hinge-frog-box.stl)
 
 ## Printing 
 
