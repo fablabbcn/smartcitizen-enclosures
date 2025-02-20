@@ -1,0 +1,11 @@
+Id,Designator,Package,Quantity,Designation,Supplier and ref
+1,"REF**,",PAD,2,PAD,
+2,MW-IRM10,MeanWell-IRM-10-5,1,MeanWell-IRM-10,
+3,FUSE:1.6A,Fuse_Littelfuse_646Series,1,Fuse,
+4,J1,"TerminalBlock_Phoenix_PT-2,5-2-5.0-H_1x02_P5.00mm_Horizontal",1,Screw_Terminal_01x02-AC_INPUT,
+5,J2,"TerminalBlock_Phoenix_MKDS-1,5-2_1x02_P5.00mm_Horizontal",1,Screw_Terminal_01x02-DC_OUTPUT,
+6,TMPS-10105,Traco-TMPS-10-105,1,TracoPower-TMPS-10105 ,
+7,D1,LED_D3.0mm,1,LED_RED,
+8,R1,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,1,1.8kOhm,
+9,G***,Logo_5000,1,LOGO,
+10,G***,Name,1,LOGO,

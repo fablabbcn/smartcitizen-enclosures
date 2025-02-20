@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name LOGO)(type KiCad)(uri /Users/macoscar/Documents/04_Projects/02_FabLab/01_SmartCitizen/01_Repositories/hardware_firmware/smartcitizen-analog-sensor-board/4-channel/LOGO.pretty)(options "")(descr ""))
+)
