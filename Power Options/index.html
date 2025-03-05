@@ -3870,23 +3870,23 @@
 
 
 <h1 id="power-options">Power Options<a class="headerlink" href="#power-options" title="Permanent link">&para;</a></h1>
-<p>The Smart Citizen Kit can be powered with a normal 5V 2A USB charger via micro USB port. Outdoor deployments, or more complex setups (like the Smart Citizen Station), require a more rugged power supply. More documentation available <a href="https://docs.smartcitizen.me/Components/boards/Power%20Supply/">in the docs</a>. Here are some options:</p>
+<p>The Smart Citizen Kit can be powered with a normal 5V 2A USB charger via micro USB port. Outdoor deployments, or more complex setups (like the Smart Citizen Station), require a more rugged power supply. More documentation available <a href="https://docs.smartcitizen.me/hardware/addons/power-supply/">in the docs</a>. Here are some options:</p>
 <h2 id="smart-citizen-power-supply">Smart Citizen Power Supply<a class="headerlink" href="#smart-citizen-power-supply" title="Permanent link">&para;</a></h2>
 <p>A simple power supply to power the SCK with a 230AC input, with 5VDC 2A output.</p>
 <p><img alt="" src="https://live.staticflickr.com/65535/54334059575_9b3e021dee_o.jpg" /></p>
 <p>The power supply can be one of two options:</p>
 <ul>
-<li>MeanWell-IRM-10-5 (datasheet in <a href="References/">References</a> folder and <a href="https://www.meanwell.com/Upload/PDF/IRM-10/IRM-10-SPEC.PDF">here</a>)</li>
+<li>MeanWell-IRM-10-5 (datasheet in <a href="References/IRM-10-SPEC.PDF">References</a> folder and <a href="https://www.meanwell.com/Upload/PDF/IRM-10/IRM-10-SPEC.PDF">here</a>)</li>
 <li>TracoPower-TMPS-10105 (datasheet in <a href="References/">References</a> folder and <a href="https://www.tracopower.com/products/tmps10.pdf">here</a>)</li>
 </ul>
 <p>It also comes with a 1.6A input fuse and two screw connectors. Check the datasheets for other available input convertions and limits.</p>
-<p>The PCB has the footprint to fit inside a <a href="#Enclosure">Bopla Polymas PK 102-211</a> IP65 Enclosure with two built-in cable glands.</p>
-<p>The hardware design files are available under <a href="PowerSupply/">Power Supply</a>.</p>
+<p>The PCB has the footprint to fit inside a <a href="#enclosure">Bopla Polymas PK 102-211</a> IP65 Enclosure with two built-in cable glands.</p>
+<p>The hardware design files can be downloaded as a zip file <a href="/Power Options/PowerSupply/power-supply-design-files.zip">here</a>.</p>
 <h2 id="solar-panel">Solar Panel<a class="headerlink" href="#solar-panel" title="Permanent link">&para;</a></h2>
 <p>We recommend a Solar Panel from <a href="https://voltaicsystems.com/">Voltaic Systems</a>, either the <a href="https://voltaicsystems.com/6-watt-panel/">6W 6V option</a> or the <a href="https://voltaicsystems.com/__socialshop/5-watt-panel-etfe/">5W 6V version</a>.</p>
 <p>We use an MPTT Sunflower Solar power manager 5V <a href="https://wiki.dfrobot.com/Solar_Power_Manager_5V_SKU__DFR0559">from DF Robot</a> for managing the solar input with an additional 2Ah battery. It is fitted inside the enclosure with a small laser cut (or 3D printed if not available) <a href="Solar/FLANGE3mm.stl">flange</a>. This is the <a href="Solar/SCK_OUTDOOR_PV_BOM.csv">BOM</a> for this option.</p>
 <h2 id="enclosure">Enclosure<a class="headerlink" href="#enclosure" title="Permanent link">&para;</a></h2>
-<p>A <a href="https://www.bopla.de/en/enclosure-technology/product/euromas-polymas/euromas-polymas-enclosures/pk-102-211.html">Bopla Polymas PK 102-211</a> enclosure is used for both options. The models can be found in the manufacturer's site in STP format. More references in the <a href="References/">References</a> folder.</p>
+<p>A <a href="https://www.bopla.de/en/enclosure-technology/euromas-polymas/enclosures-with-cable-glands/enclosure-with-2-moulded-on-pg-11/pk-102-211">Bopla Polymas PK 102-211</a> enclosure is used for both options. The models can be found in the manufacturer's site in STP format. More <a href="https://github.com/fablabbcn/smartcitizen-enclosures/tree/master/enclosures/Power%20Options/References">references</a> are available on our GitHub repository.</p>
 <h2 id="extras">Extras<a class="headerlink" href="#extras" title="Permanent link">&para;</a></h2>
 <p>Some extras are included in this folder for cases in which power distribution + USB data is needed, or a tiny board to host a reset button:</p>
 <ul>
