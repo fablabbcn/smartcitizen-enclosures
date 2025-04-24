@@ -81,6 +81,11 @@
     <label class="md-overlay" for="__drawer"></label>
     <div data-md-component="skip">
       
+        
+        <a href="#printing" class="md-skip">
+          Skip to content
+        </a>
+      
     </div>
     <div data-md-component="announce">
       
@@ -4046,6 +4051,28 @@
   
   
   
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#printing" class="md-nav__link">
+    Printing
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#additional-components" class="md-nav__link">
+    Additional components
+  </a>
+  
+</li>
+      
+    </ul>
+  
 </nav>
                   </div>
                 </div>
@@ -4086,7 +4113,56 @@
 
   <h1>Index</h1>
 
+<!--
+---
+card: true
+type: unit
+name: SCK2.3 3D printed
+page_type: enclosure
+version: SCK2.3
+field:
+  - air
+grade: intermediate
+feature_img: /assets/images/2.3/SCKit_23.png
+excerpt: Measure Indoor or Outdoor Air Quality with this unit. Beyond the metrics from the kit, it can measure CO2 with a very reliable CO2 sensor!
+---
 
+# {{ name }}
+
+![RENDER]({{ feature_img }})
+
+{{ excerpt }}
+
+This enclosure is to be used with the {{ version }}. It's based on the [Frog Box design](https://www.thingiverse.com/thing:4582978), with additional modifications, remade from scratch in [Blender]([url](https://www.blender.org/)).
+
+!!! warning ""
+    ⚠️ WARNING: There are various covers that can be used with this enclosure. The cover_INDOOR.stl is meant to be used in indoor spaces. The cover_FREESTYLE.stl is 
+-->
+<p>To use it, you need to print:</p>
+<ul>
+<li>1x cover of your choice: <a href="components/cover_indoor.stl">indoor version</a>, <a href="components/cover_multipurpose.stl">freestyle version</a>. The <a href="components/cover_outdoor.stl">outdoor version</a> is currently a WIP only, and it's meant to be used with a protective umbrella.</li>
+<li>1x <a href="components/base_SCKit.stl">base</a></li>
+<li>1x <a href="components/clip-sck2.X-sen5X.stl">clip</a></li>
+<li>2x <a href="components/latch-hinge-frog-box.stl">latches</a></li>
+</ul>
+<h2 id="printing">Printing<a class="headerlink" href="#printing" title="Permanent link">&para;</a></h2>
+<p>We have tested this on a Prusa MK3 3D printer, using PLA and the following settings:</p>
+<ul>
+<li>No supports</li>
+<li>0.2mm layer height</li>
+<li>At least 3 vertical walls</li>
+</ul>
+<!--- We recommend to avoid using gyroid as an infill-->
+
+<p>See the slicer capture below:
+<img alt="**SLICER**" src="/assets/images/2.3/slicerSCKit_23.jpg" /></p>
+<h2 id="additional-components">Additional components<a class="headerlink" href="#additional-components" title="Permanent link">&para;</a></h2>
+<ul>
+<li>2x M3 Inserts</li>
+<li>6x M3x30mm INOX screws</li>
+<li>2x M3x10mm screws</li>
+<li>Rubber seal 2.5mm</li>
+</ul>
 
 
 
