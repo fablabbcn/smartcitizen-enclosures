@@ -1,7 +1,7 @@
 ---
 card: true
 type: unit
-name: SCK2.3 3D printed
+name: SCK2.3 EC B-series 3D printed
 page_type: enclosure
 version: SCK2.3
 field:
