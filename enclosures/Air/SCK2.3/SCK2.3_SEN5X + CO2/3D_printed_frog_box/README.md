@@ -1,4 +1,3 @@
-<!--
 ---
 card: true
 type: unit
@@ -8,7 +7,7 @@ version: SCK2.3
 field:
   - air
 grade: intermediate
-feature_img: /assets/images/2.3/SCKit_23.png
+feature_img: /assets/images/2.3/SCKit_23_CO2.png
 excerpt: Measure Indoor or Outdoor Air Quality with this unit. Beyond the metrics from the kit, it can measure CO2 with a very reliable CO2 sensor!
 ---
 
@@ -22,7 +21,7 @@ This enclosure is to be used with the {{version}}. It's based on the [Frog Box d
 
 !!! warning ""
 	⚠️ WARNING: There are various covers that can be used with this enclosure. The cover_INDOOR.stl is meant to be used in indoor spaces. The cover_FREESTYLE.stl is 
--->
+
 To use it, you need to print:
 
 - 1x cover of your choice: [indoor version](components/cover_indoor.stl), [freestyle version](components/cover_multipurpose.stl). The [outdoor version](components/cover_outdoor.stl) is currently a WIP only, and it's meant to be used with a protective umbrella.
