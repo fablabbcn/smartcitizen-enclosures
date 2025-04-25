@@ -43,7 +43,8 @@ See the slicer capture below:
 
 ## Additional components
 
-- 2x M3 Inserts
+- 5x M3 Inserts
 - 6x M3x30mm INOX screws
 - 2x M3x10mm screws
+- 3x M3x6mm screws
 - Rubber seal 2.5mm
