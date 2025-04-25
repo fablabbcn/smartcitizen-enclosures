@@ -39,7 +39,7 @@ We have tested this on a Prusa MK3 3D printer, using PLA and the following setti
 <!--- We recommend to avoid using gyroid as an infill-->
 
 See the slicer capture below:
-![**SLICER**](/assets/images/2.3/slicerSCKit_23.jpg)
+![**SLICER**](/assets/images/2.3/slicerSCKit_23_CO2.jpg)
 
 ## Additional components
 
