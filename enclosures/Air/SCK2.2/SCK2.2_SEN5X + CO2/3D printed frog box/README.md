@@ -10,6 +10,7 @@ grade: intermediate
 feature_img: /assets/images/2.2/SCKit_22_CO2.png
 excerpt: Measure Indoor or Outdoor Air Quality with this unit. Beyond the metrics from the kit, it can measure CO2 with a very reliable CO2 sensor!
 ---
+
 # {{ name }}
 
 ![RENDER]({{ feature_img }})
