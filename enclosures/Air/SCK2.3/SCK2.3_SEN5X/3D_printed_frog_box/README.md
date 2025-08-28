@@ -28,6 +28,7 @@ To use it, you need to print:
 - 1x [base](components/base_SCKit.stl)
 - 1x [clip](components/clip-sck2.X-sen5X.stl)
 - 2x [latches](components/latch-hinge-frog-box.stl)
+- 1x [3Dprinted Spacer](components/SCKit_spacer.stl)
 
 ## Printing 
 
