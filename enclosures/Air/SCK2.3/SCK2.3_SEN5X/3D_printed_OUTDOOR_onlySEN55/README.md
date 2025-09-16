@@ -1,7 +1,7 @@
 ---
 card: true
 type: unit
-name: SCK2.3 3D printed
+name: SCK2.3 3D printed only SEN55
 page_type: enclosure
 version: SCK2.3
 field:
