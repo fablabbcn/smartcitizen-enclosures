@@ -43,8 +43,8 @@ We have tested this on a Prusa MK3 3D printer, using PLA and PETG using the foll
 <!--- We recommend to avoid using gyroid as an infill-->
 
 See the slicer capture below:
-![**SLICER**](/assets/images/2.3/slicerOutercase_PETG.jpg =x400)
-![**SLICER**](/assets/images/2.3/slicerOutercase_PLA.jpg =x400)
+![**SLICER**](/assets/images/2.3/slicerOutercase_PETG.jpg)
+![**SLICER**](/assets/images/2.3/slicerOutercase_PLA.jpg)
 
 ## Additional components
 
