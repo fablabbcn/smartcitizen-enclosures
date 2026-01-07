@@ -19,12 +19,15 @@ excerpt: Measure Indoor or Outdoor Air Quality with this unit. Beyond the metric
 
 This enclosure is to be used with the {{version}}. It's based on the [Frog Box design](https://www.thingiverse.com/thing:4582978), with additional modifications, remade from scratch in [Blender]([url](https://www.blender.org/)).
 
-!!! warning ""
-	⚠️ WARNING: There are various covers that can be used with this enclosure. The cover_INDOOR.stl is meant to be used in indoor spaces. The cover_FREESTYLE.stl is 
+!!! warning "Various cover designs"
+	There are various covers that can be used with this enclosure:
+	    - [`cover_indoor.stl`](components/cover_indoor.stl) is meant to be used in indoor spaces. 
+		- [`cover_freestyle.stl`](components/cover_multipurpose.stl) is meant to be used with zipties, or hung on a wall but for short-term deployments.
+		- [`cover_outdoor.stl`](components/cover_outdoor.stl) is meant to be used with an [umbrella](/Air/shared/umbrella/), for long-term outdoor deployments.
 
 To use it, you need to print:
 
-- 1x cover of your choice: [indoor version](components/cover_indoor.stl), [freestyle version](components/cover_multipurpose.stl). The [outdoor version](components/cover_outdoor.stl) is currently a WIP only, and it's meant to be used with a protective umbrella.
+- 1x cover of your choice: [indoor version](components/cover_indoor.stl), [freestyle version](components/cover_multipurpose.stl) or the [outdoor version](components/cover_outdoor.stl).
 - 1x [base](components/base_SCKit.stl)
 - 1x [clip](components/clip-sck2.X-sen5X.stl)
 - 2x [latches](components/latch-hinge-frog-box.stl)
@@ -48,3 +51,7 @@ See the slicer capture below:
 - 2x M3x10mm screws
 - 3x M3x6mm screws
 - Rubber seal 2.5mm
+- Umbrella (for outdoor settings)
+
+!!! danger "Not outdoor by itself"
+	For deployments outdoors, you will need to use the protective [umbrella](/Air/shared/umbrella/) to make sure it doesn't get soaked! The umbrella can be substituted by a physical cover, for instance placing the device protected under a balcony.
