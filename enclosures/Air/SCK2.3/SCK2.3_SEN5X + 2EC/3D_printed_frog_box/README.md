@@ -8,7 +8,7 @@ field:
   - air
 grade: intermediate
 feature_img: /assets/images/2.3/SCKit_23_2EC.png
-excerpt: Measure Indoor or Outdoor Air Quality with this unit. Beyond the metrics from the kit, it can measure CO2 with a very reliable CO2 sensor!
+excerpt: Measure Indoor or Outdoor Air Quality with this unit. Beyond the metrics from the kit, it can measure chemical parameters alphasense A-series electrochemical sensors!
 ---
 
 # {{ name }}
@@ -19,8 +19,8 @@ excerpt: Measure Indoor or Outdoor Air Quality with this unit. Beyond the metric
 
 This enclosure is to be used with the {{version}}. It's based on the [Frog Box design](https://www.thingiverse.com/thing:4582978), with additional modifications, remade from scratch in [Blender]([url](https://www.blender.org/)).
 
-!!! warning ""
-	⚠️ WARNING: There are various covers that can be used with this enclosure. The cover_INDOOR.stl is meant to be used in indoor spaces. The cover_FREESTYLE.stl is 
+!!! warning "Various cover designs" 
+	There are various covers that can be used with this enclosure: - cover_indoor.stl is meant to be used in indoor spaces. - cover_freestyle.stl is meant to be used with zipties, or hung on a wall but for short-term deployments. - cover_outdoor.stl is meant to be used with an umbrella, for long-term outdoor deployments.
 
 To use it, you need to print:
 
@@ -48,3 +48,7 @@ See the slicer capture below:
 - 2x M3x10mm screws
 - 2x M3x6mm screws
 - Rubber seal 2.5mm
+- Umbrella (for outdoor settings)
+
+!!! danger "Not outdoor by itself"
+	For deployments outdoors, you will need to use the protective [umbrella](/Air/shared/umbrella/) to make sure it doesn't get soaked! The umbrella can be substituted by a physical cover, for instance placing the device protected under a balcony.
