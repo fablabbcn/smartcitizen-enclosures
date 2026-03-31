@@ -1,14 +1,14 @@
 ---
 card: true
 type: unit
-name: SCK2.3 3D printed (SEN5X only)
+name: SCK2.3 (SEN5X only)
 page_type: enclosure
 version: SCK2.3
 field:
   - air
 grade: advanced
 feature_img: /assets/images/2.3/Unfold.png
-excerpt: Measure outdoor Air Quality with this SEN5X.
+excerpt: SCK2.3 enclosure without the Urban Board, only with a SEN5X series sensor.
 ---
 
 # {{ name }}

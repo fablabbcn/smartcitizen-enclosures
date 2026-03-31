@@ -1,14 +1,14 @@
 ---
 card: true
 type: unit
-name: SCK2.3 2EC 3D printed
+name: SCK2.3 + 2x Alphasense (A-series)
 page_type: enclosure
 version: SCK2.3
 field:
   - air
 grade: intermediate
 feature_img: /assets/images/2.3/SCKit_23_2EC.png
-excerpt: Measure Indoor or Outdoor Air Quality with this unit. Beyond the metrics from the kit, it can measure chemical parameters alphasense A-series electrochemical sensors!
+excerpt: SCK2.3 with two Alphasense sensors (A-series).
 ---
 
 # {{ name }}
@@ -21,7 +21,7 @@ This enclosure is to be used with the {{version}}. It's based on the [Frog Box d
 
 !!! warning "Various cover designs"
 	There are various covers that can be used with this enclosure:
-	    - [`cover_indoor.stl`](components/cover_indoor.stl) is meant to be used in indoor spaces. 
+	    - [`cover_indoor.stl`](components/cover_indoor.stl) is meant to be used in indoor spaces.
 		- [`cover_freestyle.stl`](components/cover_multipurpose.stl) is meant to be used with zipties, or hung on a wall but for short-term deployments.
 		- [`cover_outdoor.stl`](components/cover_outdoor.stl) is meant to be used with an [umbrella](/Air/shared/umbrella/), for long-term outdoor deployments.
 
@@ -32,7 +32,7 @@ To use it, you need to print:
 - 1x [clip](components/clip-sck2.X-sen5X.stl)
 - 2x [latches](components/latch-hinge-frog-box.stl)
 
-## Printing 
+## Printing
 
 We have tested this on a Prusa MK3 3D printer, using PLA and the following settings:
 

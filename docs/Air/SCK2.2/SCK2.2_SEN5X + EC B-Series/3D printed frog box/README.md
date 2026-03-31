@@ -1,14 +1,14 @@
 ---
 card: true
 type: unit
-name: Smart Citizen Kit 2.2 EC B-Series
+name: SCK2.2 + Alphasense (B-Series)
 page_type: enclosure
 version: SCK2.2
 field:
   - air
 grade: advanced
 feature_img: /assets/images/2.2/SCKit_EC_B-Series.jpg
-excerpt: Measure Indoor or Outdoor Air Quality with this unit. Beyond the metrics from the kit, it can measure CO2 with a very reliable CO2 sensor!
+excerpt: SCK2.2 with an Alphasense B-series sensor.
 ---
 
 # {{ name }}

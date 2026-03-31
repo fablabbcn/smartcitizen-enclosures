@@ -1,14 +1,14 @@
 ---
 card: true
 type: unit
-name: Smart Citizen Kit 2.2 with carbon dioxide sensor
+name: SCK2.2 + CO2
 page_type: enclosure
 version: SCK2.2
 field:
   - air
 grade: intermediate
 feature_img: /assets/images/2.2/SCKit_22_CO2.png
-excerpt: Measure Indoor or Outdoor Air Quality with this unit. Beyond the metrics from the kit, it can measure CO2 with a very reliable CO2 sensor!
+excerpt: SCK2.2 with CO2 sensor.
 ---
 
 # {{ name }}
@@ -19,7 +19,7 @@ excerpt: Measure Indoor or Outdoor Air Quality with this unit. Beyond the metric
 
 This enclosure is to be used with the {{version}}. It's based on the [Frog Box design](https://www.thingiverse.com/thing:4582978), with additional modifications, remade from scratch in [Blender]([url](https://www.blender.org/)).
 
-⚠️ WARNING: There are various covers that can be used with this enclosure. The cover_INDOOR.stl is meant to be used in indoor spaces. The cover_FREESTYLE.stl is 
+⚠️ WARNING: There are various covers that can be used with this enclosure. The cover_INDOOR.stl is meant to be used in indoor spaces. The cover_FREESTYLE.stl is
 
 To use it, you need to print:
 
@@ -28,7 +28,7 @@ To use it, you need to print:
 - 1x [clip](components/clip-sck2.X-sen5X.stl)
 - 2x [latches](components/latch-hinge-frog-box.stl)
 
-## Printing 
+## Printing
 
 We have tested this on a Prusa MK3 3D printer, using PLA and the following settings:
 

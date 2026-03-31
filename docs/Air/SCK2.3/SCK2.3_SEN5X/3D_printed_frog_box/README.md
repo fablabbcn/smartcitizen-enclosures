@@ -1,14 +1,14 @@
 ---
 card: true
 type: unit
-name: SCK2.3 3D printed
+name: SCK2.3
 page_type: enclosure
 version: SCK2.3
 field:
   - air
 grade: basic
 feature_img: /assets/images/2.3/SCKit_23.png
-excerpt: Measure Indoor or Outdoor Air Quality with this unit. This is the basic SCK2.3, with no additional sensor.
+excerpt: SCK2.3 basic enclosure.
 ---
 
 # {{ name }}
@@ -21,7 +21,7 @@ This enclosure is to be used with the {{version}}. It's based on the [Frog Box d
 
 !!! warning "Various cover designs"
 	There are various covers that can be used with this enclosure:
-	    - [`cover_indoor.stl`](components/cover_indoor.stl) is meant to be used in indoor spaces. 
+	    - [`cover_indoor.stl`](components/cover_indoor.stl) is meant to be used in indoor spaces.
 		- [`cover_freestyle.stl`](components/cover_multipurpose.stl) is meant to be used with zipties, or hung on a wall but for short-term deployments.
 		- [`cover_outdoor.stl`](components/cover_outdoor.stl) is meant to be used with an [umbrella](/Air/shared/umbrella/), for long-term outdoor deployments.
 
@@ -33,7 +33,7 @@ To use it, you need to print:
 - 2x [latches](components/latch-hinge-frog-box.stl)
 - 1x [3Dprinted Spacer](components/SCKit_spacer.stl)
 
-## Printing 
+## Printing
 
 We have tested this on a Prusa MK3 3D printer, using PLA and the following settings:
 
