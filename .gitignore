@@ -19,3 +19,5 @@ site
 production/
 venv
 __pycache__
+*.m
+d
