@@ -15,9 +15,7 @@ excerpt: SCK2.3 basic enclosure.
 
 ![RENDER]({{ feature_img }})
 
-{{ excerpt }}
-
-This enclosure is to be used with the {{version}}. It's based on the [Frog Box design](https://www.thingiverse.com/thing:4582978), with additional modifications, remade from scratch in [Blender]([url](https://www.blender.org/)).
+{{ excerpt }}. This enclosure is to be used with the {{version}}. It's based on the [Frog Box design](https://www.thingiverse.com/thing:4582978), with additional modifications, remade from scratch in [Blender]([url](https://www.blender.org/)).
 
 !!! warning "Various cover designs"
 	There are various covers that can be used with this enclosure:
