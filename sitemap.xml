@@ -153,11 +153,11 @@
          <lastmod>2026-03-31</lastmod>
     </url>
     <url>
-         <loc>https://enclosures.smartcitizen.me/Air/SCK2.3/SCK2.3_SEN5X/3D_printed_OUTDOOR_onlySEN55/</loc>
+         <loc>https://enclosures.smartcitizen.me/Air/SCK2.3/SCK2.3_SEN5X/3D_printed_frog_box/</loc>
          <lastmod>2026-03-31</lastmod>
     </url>
     <url>
-         <loc>https://enclosures.smartcitizen.me/Air/SCK2.3/SCK2.3_SEN5X/3D_printed_frog_box/</loc>
+         <loc>https://enclosures.smartcitizen.me/Air/SCK2.3/SCK2.3_SEN5X/3D_printed_outdoor_sen5x_only/</loc>
          <lastmod>2026-03-31</lastmod>
     </url>
     <url>
@@ -226,6 +226,10 @@
     </url>
     <url>
          <loc>https://enclosures.smartcitizen.me/Water/</loc>
+         <lastmod>2026-03-31</lastmod>
+    </url>
+    <url>
+         <loc>https://enclosures.smartcitizen.me/Water/Electronics/</loc>
          <lastmod>2026-03-31</lastmod>
     </url>
     <url>
