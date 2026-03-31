@@ -14,7 +14,7 @@ hide:
 
 # {{ name }}
 
-![]({{feature_img}})
+These enclosures are compatible with the SCK2.3 and the different sensors it supports.
 
 ## Variants
 
