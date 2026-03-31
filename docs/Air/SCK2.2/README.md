@@ -14,7 +14,7 @@ hide:
 
 # {{ name }}
 
-![]({{feature_img}})
+These are enclosures for the SCK2.2 and the sensors it supports. Most enclosures in this section are the same as the ones in [SCK2.3](Air/SCK2.3).
 
 ## Variants
 
