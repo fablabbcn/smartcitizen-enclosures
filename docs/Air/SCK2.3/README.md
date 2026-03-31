@@ -8,6 +8,8 @@ field:
   - air
 grade: intermediate
 feature_img: /assets/images/2.3/SCKit_23.png
+hide:
+  - toc
 ---
 
 # {{ name }}
