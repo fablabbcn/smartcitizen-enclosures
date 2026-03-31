@@ -1,0 +1,18 @@
+<div class="sensor-banner orange-sensor-banner">
+    <a href="/Air/SCK2.1/SCK2.1_PMS5003/3D Printed frog box/" class="a-sensor-banner">
+        <div class="sensor-image-block">
+            <img src="/assets/images/2.1/SCKit_21.png" alt="Smart Citizen Kit 2.1 3D printed frog box" class="sensor-image">
+        </div>
+        <div class="sensor-tags-block-container">
+            <h1>Smart Citizen Kit 2.1 3D printed frog box</h1>
+            
+            <div class="sensor-tags-block">
+                <div class="sensor-field sensor-tag">
+                    <p class="sensor-field-name">Grade | <b class="sensor-tag-content">intermediate</b></p>
+                </div>
+            </div>
+            
+            <p class="sensor-excerpt"> Measure Indoor or Outdoor Air Quality with this unit. Beyond the metrics from the kit, it can measure CO2 with a very reliable CO2 sensor! </p>
+        </div>
+    </a>
+</div>

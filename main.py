@@ -28,10 +28,10 @@ def get_frontmatter(content):
 
 def get_ignores(source_folder="docs/"):
     if os.path.exists(os.path.join(source_folder, '.macroignore')):
-    
+
         with open(os.path.join(source_folder, '.macroignore'), 'r') as ignore_file:
             ignores = ignore_file.read().splitlines()
-    
+
         return ignores
     return []
 
@@ -78,7 +78,7 @@ def on_pre_page_macros(env):
                 continue
 
             file_path = os.path.join(root, file)
-            file_name = file_path[file_path.find('/enclosures/'):].replace('/','_').strip('_enclosures_').replace(' ', '_').lower()
+            file_name = file_path[file_path.find('/docs/'):].replace('/','_').strip('_docs_').replace(' ', '_').lower()
 
             std_out (f'File: {file_path}')
 
@@ -463,11 +463,11 @@ def define_env(env):
                             std_out ([value, item_values])
                             if any([item_value in value for item_value in item_values]):
                                 std_out ('adding to get')
-                                file_name = file_path[file_path.find('/enclosures/'):].replace('/','_').strip('_enclosures_').replace(' ', '_').lower().replace('.md', '.html')
+                                file_name = file_path[file_path.find('/docs/'):].replace('/','_').strip('_docs_').replace(' ', '_').lower().replace('.md', '.html')
                                 cards_to_get.append(file_name)
                             std_out ('----')
                         else:
-                            file_name = file_path[file_path.find('/enclosures/'):].replace('/','_').strip('_enclosures_').replace(' ', '_').lower().replace('.md', '.html')
+                            file_name = file_path[file_path.find('/docs/'):].replace('/','_').strip('_docs_').replace(' ', '_').lower().replace('.md', '.html')
                             cards_to_get.append(file_name)
                     else:
                         std_out (f'ERROR: {file} has no frontmatter')

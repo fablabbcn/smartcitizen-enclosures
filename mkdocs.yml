@@ -4,8 +4,7 @@ site_author: Fab Lab Barcelona
 site_url: https://enclosures.smartcitizen.me/
 repo_name: smartcitizen-enclosures
 repo_url: https://github.com/fablabbcn/smartcitizen-enclosures
-
-docs_dir: "enclosures"
+docs_dir: "docs"
 
 
 theme:

@@ -1,14 +1,14 @@
 ---
 card: true
 type: unit
-name: SCK2.3 3D printed only SEN55
+name: SCK2.3 3D printed (SEN5X only)
 page_type: enclosure
 version: SCK2.3
 field:
   - air
 grade: advanced
 feature_img: /assets/images/2.3/Unfold.png
-excerpt: Measure Indoor or Outdoor Air Quality with this unit.
+excerpt: Measure outdoor Air Quality with this SEN5X.
 ---
 
 # {{ name }}
@@ -32,7 +32,7 @@ To use it, you need to print:
 - 1x [Lower Base](components/baseDW.stl)
 - 1x [battery Bridge](components/batteryBridge.stl)
 
-## Printing 
+## Printing
 
 We have tested this on a Prusa MK3 3D printer, using PLA and PETG using the following settings:
 
