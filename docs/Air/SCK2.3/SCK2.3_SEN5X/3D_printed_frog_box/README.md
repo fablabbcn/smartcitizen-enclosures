@@ -19,9 +19,10 @@ excerpt: SCK2.3 basic enclosure
 
 !!! warning "Various cover designs"
 	There are various covers that can be used with this enclosure:
-	    - [`cover_indoor.stl`](components/cover_indoor.stl) is meant to be used in indoor spaces.
-		- [`cover_freestyle.stl`](components/cover_multipurpose.stl) is meant to be used with zipties, or hung on a wall but for short-term deployments.
-		- [`cover_outdoor.stl`](components/cover_outdoor.stl) is meant to be used with an [umbrella](/Air/shared/umbrella/), for long-term outdoor deployments.
+	
+	- [`cover_indoor.stl`](components/cover_indoor.stl) is meant to be used in indoor spaces.
+	- [`cover_freestyle.stl`](components/cover_multipurpose.stl) is meant to be used with zipties, or hung on a wall but for short-term deployments.
+	- [`cover_outdoor.stl`](components/cover_outdoor.stl) is meant to be used with an [umbrella](/Air/shared/umbrella/), for long-term outdoor deployments.
 
 To use it, you need to print:
 
