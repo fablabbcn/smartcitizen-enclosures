@@ -8,7 +8,7 @@ field:
   - air
 grade: basic
 feature_img: /assets/images/2.3/SCKit_23.png
-excerpt: SCK2.3 basic enclosure.
+excerpt: SCK2.3 basic enclosure
 ---
 
 # {{ name }}
